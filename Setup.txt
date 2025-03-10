@@ -1,0 +1,90 @@
+# Document process in github
+# mount based docker of grafana to modify data in /var/lib/grafana and grafana.ini
+sudo docker run -d   -p 3000:3000   --name=grafana   -v /home/ua1/grafana-udemy/grafana/data:/var/lib/grafana   -v /home/ua1/grafana-udemy/grafana/config/grafana.ini:/etc/grafana/grafana.ini   grafana/grafana-enterprise
+
+docker run --name=redis1 -d -p 7369:7369 redis # for redis
+docker run --name mysql1 -e MYSQL_ROOT_PASSWORD=password -d mysql # installed mysql and used its datasoursce
+# open using http://10.145.68.63:3000/login
+
+# admin / admin
+# course https://www.udemy.com/course/grafana-from-zero-to-advanced
+
+# Data
+data is copied from hsot to container
+grafana-udemy/grafana/data$ ls
+annual_sales.csv  csv  grafana.db  pdf  plugins  png  sales.json
+# mysql expoerter
+https://hub.docker.com/r/prom/mysqld-exporter/
+https://prometheus.io/download/#mysqld_exporter
+
+monitoring https://grafana.com/solutions/mysql/monitor
+# Note this VM has prometheurs running
+port 900 and 9100
+
+# To modify ini file 
+docker exec -it b7 bash
+>:/usr/share/grafana$ cd /etc/grafana/
+>:/etc/grafana$ ls
+grafana.ini   ldap.toml     provisioning
+
+# Influx db setup, RUn following commands:
+
+#### Use comamnds from https://www.server-world.info/en/note?os=Ubuntu_24.04&p=influxdb&f=2
+
+apt -y install influxdb influxdb-client
+influx -execute "create user admin with password 'adminpassword' with all privileges"
+influx -execute "show users"
+# change in below file
+vi /etc/influxdb/influxdb.conf
+enabled = true
+bind-address = ":8086"
+auth-enabled = true
+
+systemctl restart influxdb
+
+# test connection
+influx
+Connected to http://localhost:8086 version 1.6.7~rc0
+InfluxDB shell version: 1.6.7~rc0
+> auth
+username: admin
+password:
+
+influx -username admin -password adminpassword
+
+export INFLUX_USERNAME=admin
+export INFLUX_PASSWORD=adminpassword
+
+# authenticate on HTTP API
+root@dlp:~# curl -G http://localhost:8086/query?pretty=true -u admin:adminpassword --data-urlencode "q=show users"
+{
+    "results": [
+        {
+            "statement_id": 0,
+            "series": [
+                {
+                    "columns": [
+                        "user",
+                        "admin"
+                    ],
+                    "values": [
+                        [
+                            "admin",
+                            true
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}
+
+# Telegraf install
+https://www.server-world.info/en/note?os=Ubuntu_24.04&p=influxdb&f=1
+
+# docker containers running
+docker ps
+CONTAINER ID   IMAGE                        COMMAND                  CREATED        STATUS        PORTS                                                 NAMES
+0b3c8d46e9f0   mysql                        "docker-entrypoint.s…"   46 hours ago   Up 46 hours   3306/tcp, 33060/tcp                                   mysql1
+9bebcd4a2480   redis                        "docker-entrypoint.s…"   47 hours ago   Up 47 hours   6379/tcp, 0.0.0.0:7369->7369/tcp, :::7369->7369/tcp   redis1
+ee0a814ef3fa   grafana/grafana-enterprise   "/run.sh"                47 hours ago   Up 47 hours   0.0.0.0:3000->3000/tcp, :::3000->3000/tcp             grafana
