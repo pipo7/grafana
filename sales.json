@@ -1,0 +1,6002 @@
+[
+    {
+        "country": "DE",
+        "date": "17-06-2022",
+        "units": 6,
+        "price": 14.19
+    },
+    {
+        "country": "FR",
+        "date": "21-06-2022",
+        "units": 11,
+        "price": 6.76
+    },
+    {
+        "country": "CA",
+        "date": "28-01-2023",
+        "units": 9,
+        "price": 7.94
+    },
+    {
+        "country": "MX",
+        "date": "01-10-2022",
+        "units": 16,
+        "price": 11.19
+    },
+    {
+        "country": "BR",
+        "date": "18-07-2023",
+        "units": 5,
+        "price": 10.49
+    },
+    {
+        "country": "DE",
+        "date": "23-04-2023",
+        "units": 9,
+        "price": 10.39
+    },
+    {
+        "country": "ZA",
+        "date": "27-03-2022",
+        "units": 1,
+        "price": 8.76
+    },
+    {
+        "country": "DE",
+        "date": "01-03-2022",
+        "units": 4,
+        "price": 14.66
+    },
+    {
+        "country": "JP",
+        "date": "20-04-2023",
+        "units": 10,
+        "price": 10.39
+    },
+    {
+        "country": "CA",
+        "date": "23-11-2022",
+        "units": 7,
+        "price": 12.47
+    },
+    {
+        "country": "US",
+        "date": "21-05-2023",
+        "units": 4,
+        "price": 13.54
+    },
+    {
+        "country": "FR",
+        "date": "04-10-2022",
+        "units": 4,
+        "price": 6.08
+    },
+    {
+        "country": "DE",
+        "date": "04-02-2022",
+        "units": 12,
+        "price": 14.22
+    },
+    {
+        "country": "CN",
+        "date": "07-10-2023",
+        "units": 14,
+        "price": 9.72
+    },
+    {
+        "country": "CN",
+        "date": "01-04-2022",
+        "units": 6,
+        "price": 14.4
+    },
+    {
+        "country": "JP",
+        "date": "03-05-2023",
+        "units": 3,
+        "price": 7.86
+    },
+    {
+        "country": "MX",
+        "date": "06-10-2022",
+        "units": 3,
+        "price": 13.71
+    },
+    {
+        "country": "JP",
+        "date": "24-02-2023",
+        "units": 13,
+        "price": 10.51
+    },
+    {
+        "country": "ZA",
+        "date": "16-07-2023",
+        "units": 16,
+        "price": 10.76
+    },
+    {
+        "country": "IN",
+        "date": "20-05-2023",
+        "units": 5,
+        "price": 13.19
+    },
+    {
+        "country": "BR",
+        "date": "24-01-2023",
+        "units": 16,
+        "price": 12.92
+    },
+    {
+        "country": "ZA",
+        "date": "07-08-2022",
+        "units": 7,
+        "price": 7.71
+    },
+    {
+        "country": "CN",
+        "date": "09-12-2022",
+        "units": 19,
+        "price": 9.75
+    },
+    {
+        "country": "ZA",
+        "date": "02-09-2023",
+        "units": 14,
+        "price": 13.47
+    },
+    {
+        "country": "ZA",
+        "date": "29-07-2022",
+        "units": 4,
+        "price": 6.02
+    },
+    {
+        "country": "MX",
+        "date": "24-09-2022",
+        "units": 5,
+        "price": 9.3
+    },
+    {
+        "country": "FR",
+        "date": "15-03-2023",
+        "units": 3,
+        "price": 11.93
+    },
+    {
+        "country": "DE",
+        "date": "12-03-2023",
+        "units": 20,
+        "price": 8.36
+    },
+    {
+        "country": "CA",
+        "date": "09-04-2023",
+        "units": 11,
+        "price": 12.81
+    },
+    {
+        "country": "IN",
+        "date": "29-10-2022",
+        "units": 3,
+        "price": 6.45
+    },
+    {
+        "country": "MX",
+        "date": "02-03-2023",
+        "units": 19,
+        "price": 8.59
+    },
+    {
+        "country": "JP",
+        "date": "23-10-2023",
+        "units": 1,
+        "price": 8.24
+    },
+    {
+        "country": "IN",
+        "date": "19-09-2022",
+        "units": 16,
+        "price": 9.41
+    },
+    {
+        "country": "CN",
+        "date": "09-08-2023",
+        "units": 11,
+        "price": 14.47
+    },
+    {
+        "country": "MX",
+        "date": "12-08-2023",
+        "units": 11,
+        "price": 10.58
+    },
+    {
+        "country": "CA",
+        "date": "25-01-2023",
+        "units": 12,
+        "price": 5.57
+    },
+    {
+        "country": "CA",
+        "date": "27-12-2022",
+        "units": 9,
+        "price": 8.97
+    },
+    {
+        "country": "CN",
+        "date": "13-09-2022",
+        "units": 7,
+        "price": 10.06
+    },
+    {
+        "country": "BR",
+        "date": "08-10-2023",
+        "units": 19,
+        "price": 6.68
+    },
+    {
+        "country": "MX",
+        "date": "17-04-2023",
+        "units": 8,
+        "price": 14.98
+    },
+    {
+        "country": "BR",
+        "date": "10-04-2022",
+        "units": 19,
+        "price": 14.98
+    },
+    {
+        "country": "DE",
+        "date": "20-11-2022",
+        "units": 9,
+        "price": 10.13
+    },
+    {
+        "country": "CN",
+        "date": "27-04-2023",
+        "units": 14,
+        "price": 9.53
+    },
+    {
+        "country": "DE",
+        "date": "23-07-2022",
+        "units": 7,
+        "price": 8.13
+    },
+    {
+        "country": "DE",
+        "date": "12-04-2023",
+        "units": 15,
+        "price": 11.18
+    },
+    {
+        "country": "IN",
+        "date": "04-11-2022",
+        "units": 8,
+        "price": 12.41
+    },
+    {
+        "country": "BR",
+        "date": "31-10-2023",
+        "units": 6,
+        "price": 11.64
+    },
+    {
+        "country": "JP",
+        "date": "18-08-2023",
+        "units": 9,
+        "price": 14.2
+    },
+    {
+        "country": "CN",
+        "date": "21-02-2022",
+        "units": 15,
+        "price": 12.11
+    },
+    {
+        "country": "DE",
+        "date": "11-08-2023",
+        "units": 17,
+        "price": 9.95
+    },
+    {
+        "country": "DE",
+        "date": "22-04-2022",
+        "units": 6,
+        "price": 11.52
+    },
+    {
+        "country": "IN",
+        "date": "16-06-2022",
+        "units": 1,
+        "price": 7.23
+    },
+    {
+        "country": "ZA",
+        "date": "27-10-2022",
+        "units": 16,
+        "price": 8.14
+    },
+    {
+        "country": "FR",
+        "date": "06-05-2023",
+        "units": 8,
+        "price": 9.11
+    },
+    {
+        "country": "ZA",
+        "date": "06-07-2023",
+        "units": 13,
+        "price": 14.06
+    },
+    {
+        "country": "BR",
+        "date": "24-05-2022",
+        "units": 15,
+        "price": 5.19
+    },
+    {
+        "country": "CN",
+        "date": "11-12-2022",
+        "units": 9,
+        "price": 10.3
+    },
+    {
+        "country": "ZA",
+        "date": "21-12-2023",
+        "units": 18,
+        "price": 14.15
+    },
+    {
+        "country": "CA",
+        "date": "20-11-2022",
+        "units": 16,
+        "price": 5.86
+    },
+    {
+        "country": "MX",
+        "date": "20-10-2022",
+        "units": 20,
+        "price": 13.18
+    },
+    {
+        "country": "IN",
+        "date": "24-03-2023",
+        "units": 15,
+        "price": 5.3
+    },
+    {
+        "country": "IN",
+        "date": "15-12-2022",
+        "units": 18,
+        "price": 9.84
+    },
+    {
+        "country": "CA",
+        "date": "13-06-2023",
+        "units": 19,
+        "price": 12.14
+    },
+    {
+        "country": "MX",
+        "date": "03-12-2022",
+        "units": 15,
+        "price": 7.99
+    },
+    {
+        "country": "MX",
+        "date": "19-04-2023",
+        "units": 19,
+        "price": 12.02
+    },
+    {
+        "country": "BR",
+        "date": "31-05-2023",
+        "units": 2,
+        "price": 6.51
+    },
+    {
+        "country": "FR",
+        "date": "17-03-2022",
+        "units": 5,
+        "price": 11.44
+    },
+    {
+        "country": "JP",
+        "date": "10-10-2023",
+        "units": 20,
+        "price": 10.0
+    },
+    {
+        "country": "JP",
+        "date": "22-07-2023",
+        "units": 18,
+        "price": 13.3
+    },
+    {
+        "country": "ZA",
+        "date": "12-06-2023",
+        "units": 14,
+        "price": 8.79
+    },
+    {
+        "country": "ZA",
+        "date": "17-11-2022",
+        "units": 13,
+        "price": 13.99
+    },
+    {
+        "country": "US",
+        "date": "07-12-2022",
+        "units": 14,
+        "price": 6.45
+    },
+    {
+        "country": "BR",
+        "date": "11-05-2023",
+        "units": 2,
+        "price": 7.9
+    },
+    {
+        "country": "IN",
+        "date": "12-05-2023",
+        "units": 15,
+        "price": 5.04
+    },
+    {
+        "country": "CN",
+        "date": "02-06-2023",
+        "units": 4,
+        "price": 9.55
+    },
+    {
+        "country": "BR",
+        "date": "25-10-2023",
+        "units": 5,
+        "price": 10.31
+    },
+    {
+        "country": "US",
+        "date": "28-06-2023",
+        "units": 19,
+        "price": 12.95
+    },
+    {
+        "country": "CA",
+        "date": "24-03-2022",
+        "units": 16,
+        "price": 8.99
+    },
+    {
+        "country": "US",
+        "date": "11-10-2022",
+        "units": 16,
+        "price": 13.51
+    },
+    {
+        "country": "IN",
+        "date": "29-12-2023",
+        "units": 13,
+        "price": 6.32
+    },
+    {
+        "country": "CN",
+        "date": "11-12-2023",
+        "units": 7,
+        "price": 12.28
+    },
+    {
+        "country": "US",
+        "date": "16-07-2022",
+        "units": 7,
+        "price": 7.57
+    },
+    {
+        "country": "CA",
+        "date": "10-05-2023",
+        "units": 15,
+        "price": 9.19
+    },
+    {
+        "country": "CA",
+        "date": "29-03-2023",
+        "units": 1,
+        "price": 10.61
+    },
+    {
+        "country": "BR",
+        "date": "26-09-2022",
+        "units": 8,
+        "price": 8.38
+    },
+    {
+        "country": "CN",
+        "date": "19-03-2023",
+        "units": 15,
+        "price": 5.43
+    },
+    {
+        "country": "CA",
+        "date": "26-03-2022",
+        "units": 2,
+        "price": 6.76
+    },
+    {
+        "country": "JP",
+        "date": "09-02-2023",
+        "units": 19,
+        "price": 9.36
+    },
+    {
+        "country": "JP",
+        "date": "09-03-2022",
+        "units": 9,
+        "price": 14.28
+    },
+    {
+        "country": "BR",
+        "date": "01-08-2022",
+        "units": 3,
+        "price": 12.64
+    },
+    {
+        "country": "IN",
+        "date": "02-09-2022",
+        "units": 18,
+        "price": 14.27
+    },
+    {
+        "country": "ZA",
+        "date": "18-02-2022",
+        "units": 9,
+        "price": 12.77
+    },
+    {
+        "country": "ZA",
+        "date": "30-09-2023",
+        "units": 20,
+        "price": 10.32
+    },
+    {
+        "country": "US",
+        "date": "22-11-2022",
+        "units": 2,
+        "price": 10.41
+    },
+    {
+        "country": "ZA",
+        "date": "18-06-2023",
+        "units": 10,
+        "price": 7.56
+    },
+    {
+        "country": "ZA",
+        "date": "06-10-2023",
+        "units": 12,
+        "price": 9.58
+    },
+    {
+        "country": "CA",
+        "date": "22-06-2022",
+        "units": 1,
+        "price": 9.29
+    },
+    {
+        "country": "MX",
+        "date": "24-07-2022",
+        "units": 17,
+        "price": 9.39
+    },
+    {
+        "country": "ZA",
+        "date": "13-11-2022",
+        "units": 14,
+        "price": 12.52
+    },
+    {
+        "country": "ZA",
+        "date": "03-07-2023",
+        "units": 11,
+        "price": 9.62
+    },
+    {
+        "country": "US",
+        "date": "04-09-2022",
+        "units": 8,
+        "price": 13.46
+    },
+    {
+        "country": "CN",
+        "date": "19-09-2023",
+        "units": 7,
+        "price": 10.04
+    },
+    {
+        "country": "JP",
+        "date": "24-01-2023",
+        "units": 4,
+        "price": 10.3
+    },
+    {
+        "country": "BR",
+        "date": "07-06-2022",
+        "units": 6,
+        "price": 5.03
+    },
+    {
+        "country": "ZA",
+        "date": "22-11-2022",
+        "units": 4,
+        "price": 11.98
+    },
+    {
+        "country": "US",
+        "date": "14-11-2022",
+        "units": 15,
+        "price": 6.97
+    },
+    {
+        "country": "CA",
+        "date": "04-02-2022",
+        "units": 14,
+        "price": 6.02
+    },
+    {
+        "country": "MX",
+        "date": "31-05-2022",
+        "units": 19,
+        "price": 14.09
+    },
+    {
+        "country": "CA",
+        "date": "17-12-2023",
+        "units": 6,
+        "price": 10.36
+    },
+    {
+        "country": "JP",
+        "date": "18-03-2022",
+        "units": 2,
+        "price": 6.89
+    },
+    {
+        "country": "MX",
+        "date": "11-09-2022",
+        "units": 15,
+        "price": 5.01
+    },
+    {
+        "country": "CN",
+        "date": "23-02-2022",
+        "units": 9,
+        "price": 6.14
+    },
+    {
+        "country": "DE",
+        "date": "10-11-2023",
+        "units": 19,
+        "price": 7.85
+    },
+    {
+        "country": "CN",
+        "date": "28-10-2022",
+        "units": 17,
+        "price": 8.47
+    },
+    {
+        "country": "DE",
+        "date": "16-05-2023",
+        "units": 2,
+        "price": 9.83
+    },
+    {
+        "country": "FR",
+        "date": "19-05-2023",
+        "units": 13,
+        "price": 13.59
+    },
+    {
+        "country": "IN",
+        "date": "24-03-2023",
+        "units": 7,
+        "price": 7.65
+    },
+    {
+        "country": "CN",
+        "date": "02-08-2022",
+        "units": 8,
+        "price": 11.89
+    },
+    {
+        "country": "CA",
+        "date": "25-04-2023",
+        "units": 16,
+        "price": 13.03
+    },
+    {
+        "country": "US",
+        "date": "05-11-2023",
+        "units": 4,
+        "price": 5.07
+    },
+    {
+        "country": "IN",
+        "date": "10-06-2023",
+        "units": 15,
+        "price": 8.18
+    },
+    {
+        "country": "MX",
+        "date": "15-06-2023",
+        "units": 19,
+        "price": 11.72
+    },
+    {
+        "country": "DE",
+        "date": "29-03-2023",
+        "units": 20,
+        "price": 9.98
+    },
+    {
+        "country": "IN",
+        "date": "12-10-2022",
+        "units": 8,
+        "price": 7.29
+    },
+    {
+        "country": "CA",
+        "date": "16-05-2023",
+        "units": 20,
+        "price": 12.54
+    },
+    {
+        "country": "FR",
+        "date": "15-12-2022",
+        "units": 18,
+        "price": 6.04
+    },
+    {
+        "country": "CA",
+        "date": "28-03-2022",
+        "units": 18,
+        "price": 9.27
+    },
+    {
+        "country": "IN",
+        "date": "12-11-2022",
+        "units": 6,
+        "price": 13.85
+    },
+    {
+        "country": "US",
+        "date": "31-05-2023",
+        "units": 2,
+        "price": 12.03
+    },
+    {
+        "country": "US",
+        "date": "25-06-2022",
+        "units": 5,
+        "price": 12.11
+    },
+    {
+        "country": "JP",
+        "date": "25-10-2023",
+        "units": 15,
+        "price": 13.0
+    },
+    {
+        "country": "CN",
+        "date": "01-02-2022",
+        "units": 15,
+        "price": 11.62
+    },
+    {
+        "country": "MX",
+        "date": "02-09-2022",
+        "units": 20,
+        "price": 7.35
+    },
+    {
+        "country": "ZA",
+        "date": "09-03-2022",
+        "units": 1,
+        "price": 14.4
+    },
+    {
+        "country": "IN",
+        "date": "24-03-2022",
+        "units": 18,
+        "price": 14.58
+    },
+    {
+        "country": "CN",
+        "date": "10-10-2022",
+        "units": 7,
+        "price": 8.6
+    },
+    {
+        "country": "US",
+        "date": "14-06-2022",
+        "units": 8,
+        "price": 13.88
+    },
+    {
+        "country": "JP",
+        "date": "11-03-2023",
+        "units": 8,
+        "price": 10.12
+    },
+    {
+        "country": "BR",
+        "date": "27-06-2023",
+        "units": 16,
+        "price": 13.32
+    },
+    {
+        "country": "CA",
+        "date": "25-02-2022",
+        "units": 10,
+        "price": 6.65
+    },
+    {
+        "country": "MX",
+        "date": "23-02-2022",
+        "units": 1,
+        "price": 14.16
+    },
+    {
+        "country": "JP",
+        "date": "11-02-2022",
+        "units": 4,
+        "price": 5.13
+    },
+    {
+        "country": "CA",
+        "date": "30-10-2023",
+        "units": 8,
+        "price": 13.74
+    },
+    {
+        "country": "CA",
+        "date": "25-08-2022",
+        "units": 4,
+        "price": 13.76
+    },
+    {
+        "country": "IN",
+        "date": "11-04-2022",
+        "units": 18,
+        "price": 8.08
+    },
+    {
+        "country": "DE",
+        "date": "25-06-2022",
+        "units": 17,
+        "price": 13.28
+    },
+    {
+        "country": "US",
+        "date": "26-01-2022",
+        "units": 15,
+        "price": 9.79
+    },
+    {
+        "country": "US",
+        "date": "26-01-2022",
+        "units": 12,
+        "price": 10.42
+    },
+    {
+        "country": "DE",
+        "date": "27-08-2022",
+        "units": 10,
+        "price": 11.46
+    },
+    {
+        "country": "DE",
+        "date": "12-10-2022",
+        "units": 8,
+        "price": 9.68
+    },
+    {
+        "country": "FR",
+        "date": "16-01-2022",
+        "units": 17,
+        "price": 11.04
+    },
+    {
+        "country": "BR",
+        "date": "16-12-2023",
+        "units": 3,
+        "price": 14.63
+    },
+    {
+        "country": "MX",
+        "date": "23-10-2023",
+        "units": 12,
+        "price": 8.75
+    },
+    {
+        "country": "US",
+        "date": "06-10-2023",
+        "units": 3,
+        "price": 7.47
+    },
+    {
+        "country": "BR",
+        "date": "28-11-2022",
+        "units": 1,
+        "price": 9.23
+    },
+    {
+        "country": "JP",
+        "date": "02-09-2022",
+        "units": 19,
+        "price": 13.41
+    },
+    {
+        "country": "JP",
+        "date": "16-11-2023",
+        "units": 20,
+        "price": 11.07
+    },
+    {
+        "country": "BR",
+        "date": "18-07-2022",
+        "units": 7,
+        "price": 13.82
+    },
+    {
+        "country": "MX",
+        "date": "24-06-2023",
+        "units": 19,
+        "price": 8.98
+    },
+    {
+        "country": "CA",
+        "date": "20-09-2023",
+        "units": 8,
+        "price": 11.72
+    },
+    {
+        "country": "BR",
+        "date": "04-03-2022",
+        "units": 5,
+        "price": 14.43
+    },
+    {
+        "country": "MX",
+        "date": "22-02-2023",
+        "units": 2,
+        "price": 14.45
+    },
+    {
+        "country": "US",
+        "date": "02-08-2022",
+        "units": 9,
+        "price": 11.83
+    },
+    {
+        "country": "US",
+        "date": "12-09-2022",
+        "units": 13,
+        "price": 5.49
+    },
+    {
+        "country": "JP",
+        "date": "18-04-2023",
+        "units": 3,
+        "price": 12.54
+    },
+    {
+        "country": "JP",
+        "date": "12-05-2023",
+        "units": 9,
+        "price": 13.24
+    },
+    {
+        "country": "MX",
+        "date": "21-05-2022",
+        "units": 19,
+        "price": 9.04
+    },
+    {
+        "country": "BR",
+        "date": "30-08-2023",
+        "units": 6,
+        "price": 5.43
+    },
+    {
+        "country": "ZA",
+        "date": "14-12-2022",
+        "units": 14,
+        "price": 7.53
+    },
+    {
+        "country": "IN",
+        "date": "18-12-2023",
+        "units": 3,
+        "price": 13.83
+    },
+    {
+        "country": "US",
+        "date": "02-10-2022",
+        "units": 4,
+        "price": 14.5
+    },
+    {
+        "country": "CA",
+        "date": "08-12-2022",
+        "units": 17,
+        "price": 9.02
+    },
+    {
+        "country": "US",
+        "date": "02-12-2023",
+        "units": 15,
+        "price": 11.69
+    },
+    {
+        "country": "JP",
+        "date": "11-03-2022",
+        "units": 16,
+        "price": 10.5
+    },
+    {
+        "country": "ZA",
+        "date": "17-11-2022",
+        "units": 2,
+        "price": 11.91
+    },
+    {
+        "country": "CN",
+        "date": "06-08-2022",
+        "units": 15,
+        "price": 12.92
+    },
+    {
+        "country": "JP",
+        "date": "17-10-2022",
+        "units": 3,
+        "price": 9.02
+    },
+    {
+        "country": "JP",
+        "date": "13-11-2022",
+        "units": 20,
+        "price": 12.51
+    },
+    {
+        "country": "IN",
+        "date": "08-04-2023",
+        "units": 5,
+        "price": 9.9
+    },
+    {
+        "country": "BR",
+        "date": "11-10-2023",
+        "units": 20,
+        "price": 13.19
+    },
+    {
+        "country": "DE",
+        "date": "11-03-2022",
+        "units": 20,
+        "price": 5.87
+    },
+    {
+        "country": "DE",
+        "date": "27-04-2022",
+        "units": 3,
+        "price": 5.43
+    },
+    {
+        "country": "MX",
+        "date": "21-04-2022",
+        "units": 13,
+        "price": 9.97
+    },
+    {
+        "country": "ZA",
+        "date": "27-04-2023",
+        "units": 16,
+        "price": 10.93
+    },
+    {
+        "country": "BR",
+        "date": "17-11-2023",
+        "units": 20,
+        "price": 7.8
+    },
+    {
+        "country": "CA",
+        "date": "21-10-2023",
+        "units": 18,
+        "price": 6.33
+    },
+    {
+        "country": "US",
+        "date": "29-01-2023",
+        "units": 19,
+        "price": 7.85
+    },
+    {
+        "country": "US",
+        "date": "05-07-2023",
+        "units": 8,
+        "price": 7.19
+    },
+    {
+        "country": "CA",
+        "date": "16-01-2023",
+        "units": 12,
+        "price": 5.54
+    },
+    {
+        "country": "MX",
+        "date": "06-06-2023",
+        "units": 4,
+        "price": 5.86
+    },
+    {
+        "country": "MX",
+        "date": "06-01-2023",
+        "units": 8,
+        "price": 10.85
+    },
+    {
+        "country": "MX",
+        "date": "02-02-2023",
+        "units": 7,
+        "price": 14.74
+    },
+    {
+        "country": "BR",
+        "date": "07-12-2022",
+        "units": 7,
+        "price": 12.29
+    },
+    {
+        "country": "BR",
+        "date": "08-05-2022",
+        "units": 11,
+        "price": 10.28
+    },
+    {
+        "country": "MX",
+        "date": "24-06-2023",
+        "units": 9,
+        "price": 13.16
+    },
+    {
+        "country": "CA",
+        "date": "25-09-2023",
+        "units": 7,
+        "price": 11.82
+    },
+    {
+        "country": "ZA",
+        "date": "27-03-2023",
+        "units": 8,
+        "price": 11.96
+    },
+    {
+        "country": "US",
+        "date": "14-06-2022",
+        "units": 17,
+        "price": 12.53
+    },
+    {
+        "country": "DE",
+        "date": "05-05-2023",
+        "units": 13,
+        "price": 12.13
+    },
+    {
+        "country": "IN",
+        "date": "03-11-2022",
+        "units": 5,
+        "price": 10.34
+    },
+    {
+        "country": "CN",
+        "date": "12-08-2022",
+        "units": 17,
+        "price": 6.11
+    },
+    {
+        "country": "IN",
+        "date": "29-05-2022",
+        "units": 10,
+        "price": 9.78
+    },
+    {
+        "country": "FR",
+        "date": "26-03-2022",
+        "units": 8,
+        "price": 13.54
+    },
+    {
+        "country": "US",
+        "date": "17-09-2022",
+        "units": 17,
+        "price": 11.18
+    },
+    {
+        "country": "FR",
+        "date": "02-08-2022",
+        "units": 8,
+        "price": 8.31
+    },
+    {
+        "country": "US",
+        "date": "14-03-2023",
+        "units": 20,
+        "price": 11.1
+    },
+    {
+        "country": "MX",
+        "date": "27-03-2023",
+        "units": 6,
+        "price": 7.98
+    },
+    {
+        "country": "BR",
+        "date": "08-07-2023",
+        "units": 2,
+        "price": 7.11
+    },
+    {
+        "country": "JP",
+        "date": "05-04-2023",
+        "units": 4,
+        "price": 8.71
+    },
+    {
+        "country": "CN",
+        "date": "14-06-2022",
+        "units": 19,
+        "price": 9.33
+    },
+    {
+        "country": "FR",
+        "date": "16-03-2023",
+        "units": 16,
+        "price": 6.3
+    },
+    {
+        "country": "US",
+        "date": "08-01-2022",
+        "units": 9,
+        "price": 10.58
+    },
+    {
+        "country": "US",
+        "date": "02-04-2022",
+        "units": 14,
+        "price": 13.42
+    },
+    {
+        "country": "CN",
+        "date": "20-02-2022",
+        "units": 14,
+        "price": 7.49
+    },
+    {
+        "country": "CA",
+        "date": "07-12-2022",
+        "units": 18,
+        "price": 12.95
+    },
+    {
+        "country": "IN",
+        "date": "12-07-2022",
+        "units": 20,
+        "price": 14.02
+    },
+    {
+        "country": "CN",
+        "date": "10-08-2023",
+        "units": 1,
+        "price": 9.54
+    },
+    {
+        "country": "IN",
+        "date": "28-10-2023",
+        "units": 19,
+        "price": 9.47
+    },
+    {
+        "country": "CN",
+        "date": "03-09-2022",
+        "units": 11,
+        "price": 8.37
+    },
+    {
+        "country": "CA",
+        "date": "09-09-2022",
+        "units": 17,
+        "price": 6.42
+    },
+    {
+        "country": "FR",
+        "date": "09-01-2022",
+        "units": 17,
+        "price": 13.51
+    },
+    {
+        "country": "MX",
+        "date": "10-01-2023",
+        "units": 19,
+        "price": 11.38
+    },
+    {
+        "country": "CN",
+        "date": "28-12-2023",
+        "units": 4,
+        "price": 11.81
+    },
+    {
+        "country": "JP",
+        "date": "21-11-2023",
+        "units": 3,
+        "price": 13.15
+    },
+    {
+        "country": "CA",
+        "date": "25-06-2023",
+        "units": 16,
+        "price": 7.48
+    },
+    {
+        "country": "ZA",
+        "date": "10-06-2023",
+        "units": 5,
+        "price": 5.79
+    },
+    {
+        "country": "CN",
+        "date": "19-11-2023",
+        "units": 15,
+        "price": 8.06
+    },
+    {
+        "country": "CN",
+        "date": "04-04-2023",
+        "units": 1,
+        "price": 9.76
+    },
+    {
+        "country": "BR",
+        "date": "26-04-2022",
+        "units": 3,
+        "price": 10.37
+    },
+    {
+        "country": "US",
+        "date": "04-04-2023",
+        "units": 11,
+        "price": 9.29
+    },
+    {
+        "country": "CA",
+        "date": "23-04-2022",
+        "units": 16,
+        "price": 7.96
+    },
+    {
+        "country": "BR",
+        "date": "14-02-2022",
+        "units": 8,
+        "price": 7.33
+    },
+    {
+        "country": "IN",
+        "date": "28-11-2023",
+        "units": 8,
+        "price": 14.56
+    },
+    {
+        "country": "CN",
+        "date": "03-12-2023",
+        "units": 12,
+        "price": 9.03
+    },
+    {
+        "country": "FR",
+        "date": "21-02-2022",
+        "units": 8,
+        "price": 13.86
+    },
+    {
+        "country": "BR",
+        "date": "15-02-2022",
+        "units": 5,
+        "price": 10.04
+    },
+    {
+        "country": "JP",
+        "date": "17-04-2022",
+        "units": 18,
+        "price": 9.28
+    },
+    {
+        "country": "CN",
+        "date": "12-07-2022",
+        "units": 13,
+        "price": 9.34
+    },
+    {
+        "country": "CN",
+        "date": "10-05-2022",
+        "units": 4,
+        "price": 9.4
+    },
+    {
+        "country": "FR",
+        "date": "08-07-2023",
+        "units": 2,
+        "price": 9.95
+    },
+    {
+        "country": "DE",
+        "date": "03-03-2022",
+        "units": 18,
+        "price": 5.9
+    },
+    {
+        "country": "CA",
+        "date": "04-05-2023",
+        "units": 15,
+        "price": 9.23
+    },
+    {
+        "country": "CN",
+        "date": "24-11-2022",
+        "units": 15,
+        "price": 7.59
+    },
+    {
+        "country": "US",
+        "date": "27-12-2023",
+        "units": 11,
+        "price": 8.15
+    },
+    {
+        "country": "CA",
+        "date": "19-01-2023",
+        "units": 15,
+        "price": 6.66
+    },
+    {
+        "country": "BR",
+        "date": "04-07-2023",
+        "units": 6,
+        "price": 14.63
+    },
+    {
+        "country": "FR",
+        "date": "17-07-2022",
+        "units": 14,
+        "price": 13.98
+    },
+    {
+        "country": "BR",
+        "date": "27-04-2022",
+        "units": 11,
+        "price": 8.49
+    },
+    {
+        "country": "CA",
+        "date": "01-02-2022",
+        "units": 10,
+        "price": 14.19
+    },
+    {
+        "country": "MX",
+        "date": "20-11-2022",
+        "units": 19,
+        "price": 10.86
+    },
+    {
+        "country": "ZA",
+        "date": "21-08-2023",
+        "units": 1,
+        "price": 7.82
+    },
+    {
+        "country": "BR",
+        "date": "26-12-2023",
+        "units": 16,
+        "price": 9.15
+    },
+    {
+        "country": "JP",
+        "date": "09-03-2023",
+        "units": 18,
+        "price": 10.84
+    },
+    {
+        "country": "FR",
+        "date": "07-10-2023",
+        "units": 7,
+        "price": 8.51
+    },
+    {
+        "country": "CA",
+        "date": "28-11-2023",
+        "units": 8,
+        "price": 11.28
+    },
+    {
+        "country": "JP",
+        "date": "06-06-2022",
+        "units": 13,
+        "price": 11.45
+    },
+    {
+        "country": "JP",
+        "date": "04-06-2022",
+        "units": 8,
+        "price": 14.04
+    },
+    {
+        "country": "ZA",
+        "date": "06-03-2022",
+        "units": 1,
+        "price": 9.43
+    },
+    {
+        "country": "MX",
+        "date": "15-11-2022",
+        "units": 14,
+        "price": 10.71
+    },
+    {
+        "country": "ZA",
+        "date": "26-11-2023",
+        "units": 16,
+        "price": 12.77
+    },
+    {
+        "country": "DE",
+        "date": "11-08-2022",
+        "units": 2,
+        "price": 7.73
+    },
+    {
+        "country": "CN",
+        "date": "14-07-2023",
+        "units": 17,
+        "price": 7.01
+    },
+    {
+        "country": "JP",
+        "date": "23-08-2022",
+        "units": 17,
+        "price": 5.76
+    },
+    {
+        "country": "CN",
+        "date": "30-10-2022",
+        "units": 10,
+        "price": 12.61
+    },
+    {
+        "country": "DE",
+        "date": "18-07-2022",
+        "units": 7,
+        "price": 10.32
+    },
+    {
+        "country": "CN",
+        "date": "07-10-2023",
+        "units": 5,
+        "price": 12.51
+    },
+    {
+        "country": "CA",
+        "date": "09-10-2023",
+        "units": 14,
+        "price": 11.91
+    },
+    {
+        "country": "IN",
+        "date": "09-02-2022",
+        "units": 11,
+        "price": 5.37
+    },
+    {
+        "country": "DE",
+        "date": "12-07-2023",
+        "units": 2,
+        "price": 13.58
+    },
+    {
+        "country": "BR",
+        "date": "14-11-2023",
+        "units": 7,
+        "price": 5.99
+    },
+    {
+        "country": "DE",
+        "date": "07-12-2023",
+        "units": 5,
+        "price": 5.76
+    },
+    {
+        "country": "BR",
+        "date": "26-03-2023",
+        "units": 15,
+        "price": 14.56
+    },
+    {
+        "country": "DE",
+        "date": "23-05-2022",
+        "units": 8,
+        "price": 5.29
+    },
+    {
+        "country": "US",
+        "date": "29-12-2022",
+        "units": 12,
+        "price": 6.08
+    },
+    {
+        "country": "MX",
+        "date": "16-10-2022",
+        "units": 16,
+        "price": 13.96
+    },
+    {
+        "country": "IN",
+        "date": "19-12-2023",
+        "units": 5,
+        "price": 10.72
+    },
+    {
+        "country": "MX",
+        "date": "10-04-2022",
+        "units": 9,
+        "price": 8.44
+    },
+    {
+        "country": "CA",
+        "date": "18-03-2022",
+        "units": 14,
+        "price": 9.55
+    },
+    {
+        "country": "DE",
+        "date": "05-12-2022",
+        "units": 12,
+        "price": 6.16
+    },
+    {
+        "country": "MX",
+        "date": "24-03-2023",
+        "units": 17,
+        "price": 5.74
+    },
+    {
+        "country": "FR",
+        "date": "22-08-2023",
+        "units": 12,
+        "price": 10.13
+    },
+    {
+        "country": "MX",
+        "date": "09-10-2022",
+        "units": 5,
+        "price": 7.89
+    },
+    {
+        "country": "IN",
+        "date": "29-08-2023",
+        "units": 19,
+        "price": 7.32
+    },
+    {
+        "country": "CN",
+        "date": "07-04-2022",
+        "units": 1,
+        "price": 5.52
+    },
+    {
+        "country": "DE",
+        "date": "20-06-2023",
+        "units": 19,
+        "price": 14.57
+    },
+    {
+        "country": "DE",
+        "date": "05-04-2022",
+        "units": 8,
+        "price": 14.23
+    },
+    {
+        "country": "CA",
+        "date": "27-06-2023",
+        "units": 11,
+        "price": 9.31
+    },
+    {
+        "country": "IN",
+        "date": "30-12-2022",
+        "units": 3,
+        "price": 6.75
+    },
+    {
+        "country": "JP",
+        "date": "04-08-2022",
+        "units": 2,
+        "price": 8.16
+    },
+    {
+        "country": "DE",
+        "date": "20-12-2023",
+        "units": 9,
+        "price": 13.1
+    },
+    {
+        "country": "FR",
+        "date": "01-10-2023",
+        "units": 5,
+        "price": 11.63
+    },
+    {
+        "country": "IN",
+        "date": "02-02-2022",
+        "units": 2,
+        "price": 13.8
+    },
+    {
+        "country": "CN",
+        "date": "01-02-2022",
+        "units": 17,
+        "price": 14.14
+    },
+    {
+        "country": "FR",
+        "date": "02-06-2023",
+        "units": 1,
+        "price": 9.5
+    },
+    {
+        "country": "BR",
+        "date": "28-07-2023",
+        "units": 10,
+        "price": 14.12
+    },
+    {
+        "country": "CN",
+        "date": "06-07-2022",
+        "units": 3,
+        "price": 13.7
+    },
+    {
+        "country": "CA",
+        "date": "06-09-2022",
+        "units": 18,
+        "price": 12.3
+    },
+    {
+        "country": "CN",
+        "date": "03-08-2023",
+        "units": 16,
+        "price": 6.44
+    },
+    {
+        "country": "DE",
+        "date": "25-05-2022",
+        "units": 4,
+        "price": 11.53
+    },
+    {
+        "country": "US",
+        "date": "19-09-2023",
+        "units": 15,
+        "price": 8.11
+    },
+    {
+        "country": "CA",
+        "date": "26-07-2022",
+        "units": 13,
+        "price": 7.45
+    },
+    {
+        "country": "US",
+        "date": "09-01-2022",
+        "units": 18,
+        "price": 12.24
+    },
+    {
+        "country": "ZA",
+        "date": "08-12-2022",
+        "units": 17,
+        "price": 9.23
+    },
+    {
+        "country": "ZA",
+        "date": "09-11-2022",
+        "units": 14,
+        "price": 5.35
+    },
+    {
+        "country": "DE",
+        "date": "13-02-2022",
+        "units": 16,
+        "price": 9.68
+    },
+    {
+        "country": "DE",
+        "date": "08-01-2022",
+        "units": 9,
+        "price": 12.99
+    },
+    {
+        "country": "IN",
+        "date": "03-05-2022",
+        "units": 11,
+        "price": 13.34
+    },
+    {
+        "country": "ZA",
+        "date": "21-09-2023",
+        "units": 6,
+        "price": 13.6
+    },
+    {
+        "country": "BR",
+        "date": "09-04-2022",
+        "units": 17,
+        "price": 13.03
+    },
+    {
+        "country": "US",
+        "date": "01-07-2023",
+        "units": 7,
+        "price": 5.05
+    },
+    {
+        "country": "ZA",
+        "date": "27-09-2022",
+        "units": 4,
+        "price": 10.88
+    },
+    {
+        "country": "ZA",
+        "date": "10-04-2022",
+        "units": 15,
+        "price": 12.41
+    },
+    {
+        "country": "ZA",
+        "date": "29-08-2023",
+        "units": 9,
+        "price": 14.4
+    },
+    {
+        "country": "CN",
+        "date": "27-08-2022",
+        "units": 6,
+        "price": 8.68
+    },
+    {
+        "country": "FR",
+        "date": "24-09-2022",
+        "units": 9,
+        "price": 13.86
+    },
+    {
+        "country": "CN",
+        "date": "19-07-2023",
+        "units": 17,
+        "price": 7.15
+    },
+    {
+        "country": "CA",
+        "date": "24-04-2023",
+        "units": 5,
+        "price": 5.56
+    },
+    {
+        "country": "JP",
+        "date": "30-06-2022",
+        "units": 10,
+        "price": 10.9
+    },
+    {
+        "country": "DE",
+        "date": "28-04-2022",
+        "units": 14,
+        "price": 14.45
+    },
+    {
+        "country": "BR",
+        "date": "01-11-2023",
+        "units": 13,
+        "price": 6.29
+    },
+    {
+        "country": "CN",
+        "date": "01-12-2022",
+        "units": 5,
+        "price": 8.93
+    },
+    {
+        "country": "FR",
+        "date": "15-09-2022",
+        "units": 15,
+        "price": 5.95
+    },
+    {
+        "country": "FR",
+        "date": "15-06-2023",
+        "units": 17,
+        "price": 12.54
+    },
+    {
+        "country": "CN",
+        "date": "15-06-2022",
+        "units": 20,
+        "price": 9.6
+    },
+    {
+        "country": "ZA",
+        "date": "06-03-2022",
+        "units": 14,
+        "price": 9.84
+    },
+    {
+        "country": "FR",
+        "date": "02-10-2023",
+        "units": 8,
+        "price": 5.01
+    },
+    {
+        "country": "MX",
+        "date": "16-06-2022",
+        "units": 16,
+        "price": 8.39
+    },
+    {
+        "country": "CA",
+        "date": "19-08-2023",
+        "units": 14,
+        "price": 11.01
+    },
+    {
+        "country": "IN",
+        "date": "03-08-2023",
+        "units": 17,
+        "price": 11.23
+    },
+    {
+        "country": "DE",
+        "date": "10-01-2023",
+        "units": 16,
+        "price": 6.32
+    },
+    {
+        "country": "FR",
+        "date": "01-01-2023",
+        "units": 1,
+        "price": 7.32
+    },
+    {
+        "country": "BR",
+        "date": "16-09-2022",
+        "units": 13,
+        "price": 14.16
+    },
+    {
+        "country": "DE",
+        "date": "28-04-2023",
+        "units": 18,
+        "price": 6.65
+    },
+    {
+        "country": "DE",
+        "date": "30-01-2023",
+        "units": 17,
+        "price": 9.57
+    },
+    {
+        "country": "CA",
+        "date": "02-04-2023",
+        "units": 7,
+        "price": 11.48
+    },
+    {
+        "country": "DE",
+        "date": "23-07-2022",
+        "units": 1,
+        "price": 9.92
+    },
+    {
+        "country": "CA",
+        "date": "11-01-2022",
+        "units": 6,
+        "price": 11.92
+    },
+    {
+        "country": "CN",
+        "date": "13-04-2023",
+        "units": 16,
+        "price": 13.81
+    },
+    {
+        "country": "FR",
+        "date": "08-10-2023",
+        "units": 8,
+        "price": 5.44
+    },
+    {
+        "country": "US",
+        "date": "13-02-2022",
+        "units": 7,
+        "price": 13.55
+    },
+    {
+        "country": "MX",
+        "date": "12-02-2023",
+        "units": 20,
+        "price": 11.04
+    },
+    {
+        "country": "IN",
+        "date": "27-12-2022",
+        "units": 17,
+        "price": 10.1
+    },
+    {
+        "country": "CA",
+        "date": "23-10-2023",
+        "units": 3,
+        "price": 11.75
+    },
+    {
+        "country": "DE",
+        "date": "30-07-2022",
+        "units": 8,
+        "price": 7.61
+    },
+    {
+        "country": "CN",
+        "date": "07-05-2022",
+        "units": 5,
+        "price": 11.49
+    },
+    {
+        "country": "JP",
+        "date": "08-01-2022",
+        "units": 20,
+        "price": 13.4
+    },
+    {
+        "country": "BR",
+        "date": "04-07-2023",
+        "units": 8,
+        "price": 9.24
+    },
+    {
+        "country": "CN",
+        "date": "26-09-2022",
+        "units": 20,
+        "price": 10.49
+    },
+    {
+        "country": "MX",
+        "date": "10-11-2022",
+        "units": 10,
+        "price": 10.83
+    },
+    {
+        "country": "BR",
+        "date": "23-03-2023",
+        "units": 19,
+        "price": 12.43
+    },
+    {
+        "country": "CN",
+        "date": "17-08-2023",
+        "units": 3,
+        "price": 5.99
+    },
+    {
+        "country": "IN",
+        "date": "30-11-2022",
+        "units": 19,
+        "price": 13.01
+    },
+    {
+        "country": "CN",
+        "date": "09-05-2022",
+        "units": 18,
+        "price": 8.78
+    },
+    {
+        "country": "CN",
+        "date": "14-07-2022",
+        "units": 9,
+        "price": 12.97
+    },
+    {
+        "country": "BR",
+        "date": "26-07-2022",
+        "units": 7,
+        "price": 11.07
+    },
+    {
+        "country": "MX",
+        "date": "17-04-2023",
+        "units": 6,
+        "price": 11.51
+    },
+    {
+        "country": "ZA",
+        "date": "27-04-2022",
+        "units": 8,
+        "price": 8.28
+    },
+    {
+        "country": "DE",
+        "date": "20-08-2023",
+        "units": 18,
+        "price": 9.12
+    },
+    {
+        "country": "CA",
+        "date": "04-07-2022",
+        "units": 20,
+        "price": 14.27
+    },
+    {
+        "country": "BR",
+        "date": "30-08-2023",
+        "units": 9,
+        "price": 11.43
+    },
+    {
+        "country": "MX",
+        "date": "03-11-2023",
+        "units": 2,
+        "price": 11.28
+    },
+    {
+        "country": "CN",
+        "date": "24-02-2022",
+        "units": 12,
+        "price": 5.4
+    },
+    {
+        "country": "FR",
+        "date": "02-03-2022",
+        "units": 12,
+        "price": 8.67
+    },
+    {
+        "country": "CA",
+        "date": "04-11-2022",
+        "units": 12,
+        "price": 9.24
+    },
+    {
+        "country": "CN",
+        "date": "02-12-2023",
+        "units": 10,
+        "price": 8.45
+    },
+    {
+        "country": "US",
+        "date": "26-01-2022",
+        "units": 6,
+        "price": 9.52
+    },
+    {
+        "country": "US",
+        "date": "06-06-2022",
+        "units": 5,
+        "price": 10.64
+    },
+    {
+        "country": "CN",
+        "date": "16-02-2022",
+        "units": 2,
+        "price": 12.64
+    },
+    {
+        "country": "ZA",
+        "date": "27-03-2022",
+        "units": 16,
+        "price": 7.91
+    },
+    {
+        "country": "MX",
+        "date": "07-02-2022",
+        "units": 4,
+        "price": 5.38
+    },
+    {
+        "country": "IN",
+        "date": "09-12-2022",
+        "units": 16,
+        "price": 10.59
+    },
+    {
+        "country": "BR",
+        "date": "26-09-2022",
+        "units": 15,
+        "price": 8.43
+    },
+    {
+        "country": "DE",
+        "date": "11-12-2022",
+        "units": 7,
+        "price": 13.23
+    },
+    {
+        "country": "ZA",
+        "date": "30-11-2023",
+        "units": 1,
+        "price": 10.26
+    },
+    {
+        "country": "BR",
+        "date": "15-08-2022",
+        "units": 2,
+        "price": 10.99
+    },
+    {
+        "country": "DE",
+        "date": "16-02-2022",
+        "units": 1,
+        "price": 11.64
+    },
+    {
+        "country": "BR",
+        "date": "27-08-2023",
+        "units": 17,
+        "price": 13.78
+    },
+    {
+        "country": "JP",
+        "date": "25-03-2023",
+        "units": 20,
+        "price": 14.0
+    },
+    {
+        "country": "ZA",
+        "date": "24-03-2023",
+        "units": 19,
+        "price": 5.02
+    },
+    {
+        "country": "DE",
+        "date": "09-10-2023",
+        "units": 17,
+        "price": 14.82
+    },
+    {
+        "country": "US",
+        "date": "09-09-2023",
+        "units": 5,
+        "price": 7.14
+    },
+    {
+        "country": "CA",
+        "date": "17-05-2022",
+        "units": 14,
+        "price": 6.48
+    },
+    {
+        "country": "MX",
+        "date": "14-11-2022",
+        "units": 13,
+        "price": 11.57
+    },
+    {
+        "country": "MX",
+        "date": "31-07-2023",
+        "units": 3,
+        "price": 11.82
+    },
+    {
+        "country": "FR",
+        "date": "03-01-2022",
+        "units": 17,
+        "price": 8.16
+    },
+    {
+        "country": "CN",
+        "date": "04-12-2023",
+        "units": 8,
+        "price": 13.65
+    },
+    {
+        "country": "BR",
+        "date": "01-02-2022",
+        "units": 18,
+        "price": 9.57
+    },
+    {
+        "country": "JP",
+        "date": "06-02-2022",
+        "units": 6,
+        "price": 10.21
+    },
+    {
+        "country": "IN",
+        "date": "24-06-2022",
+        "units": 14,
+        "price": 8.98
+    },
+    {
+        "country": "MX",
+        "date": "07-09-2023",
+        "units": 17,
+        "price": 8.66
+    },
+    {
+        "country": "IN",
+        "date": "27-05-2022",
+        "units": 15,
+        "price": 6.38
+    },
+    {
+        "country": "US",
+        "date": "07-08-2023",
+        "units": 16,
+        "price": 8.12
+    },
+    {
+        "country": "JP",
+        "date": "04-02-2023",
+        "units": 13,
+        "price": 5.79
+    },
+    {
+        "country": "FR",
+        "date": "17-07-2022",
+        "units": 13,
+        "price": 12.58
+    },
+    {
+        "country": "ZA",
+        "date": "04-01-2023",
+        "units": 2,
+        "price": 10.86
+    },
+    {
+        "country": "BR",
+        "date": "01-11-2022",
+        "units": 15,
+        "price": 11.13
+    },
+    {
+        "country": "JP",
+        "date": "30-06-2023",
+        "units": 20,
+        "price": 10.96
+    },
+    {
+        "country": "CA",
+        "date": "04-02-2023",
+        "units": 19,
+        "price": 12.76
+    },
+    {
+        "country": "CN",
+        "date": "05-10-2022",
+        "units": 11,
+        "price": 8.09
+    },
+    {
+        "country": "BR",
+        "date": "27-05-2023",
+        "units": 3,
+        "price": 7.64
+    },
+    {
+        "country": "FR",
+        "date": "03-05-2022",
+        "units": 9,
+        "price": 7.1
+    },
+    {
+        "country": "BR",
+        "date": "11-11-2023",
+        "units": 19,
+        "price": 11.98
+    },
+    {
+        "country": "FR",
+        "date": "05-11-2023",
+        "units": 13,
+        "price": 10.91
+    },
+    {
+        "country": "IN",
+        "date": "06-02-2023",
+        "units": 9,
+        "price": 7.09
+    },
+    {
+        "country": "US",
+        "date": "19-06-2023",
+        "units": 4,
+        "price": 10.79
+    },
+    {
+        "country": "ZA",
+        "date": "26-09-2022",
+        "units": 20,
+        "price": 12.47
+    },
+    {
+        "country": "MX",
+        "date": "22-12-2023",
+        "units": 20,
+        "price": 11.82
+    },
+    {
+        "country": "BR",
+        "date": "08-09-2023",
+        "units": 15,
+        "price": 5.39
+    },
+    {
+        "country": "CN",
+        "date": "15-10-2022",
+        "units": 20,
+        "price": 14.17
+    },
+    {
+        "country": "FR",
+        "date": "18-05-2022",
+        "units": 9,
+        "price": 7.95
+    },
+    {
+        "country": "IN",
+        "date": "10-04-2022",
+        "units": 7,
+        "price": 10.49
+    },
+    {
+        "country": "DE",
+        "date": "22-03-2023",
+        "units": 3,
+        "price": 13.54
+    },
+    {
+        "country": "ZA",
+        "date": "22-05-2023",
+        "units": 7,
+        "price": 8.01
+    },
+    {
+        "country": "CN",
+        "date": "22-11-2023",
+        "units": 10,
+        "price": 13.72
+    },
+    {
+        "country": "US",
+        "date": "11-01-2023",
+        "units": 15,
+        "price": 13.42
+    },
+    {
+        "country": "JP",
+        "date": "16-06-2022",
+        "units": 4,
+        "price": 12.29
+    },
+    {
+        "country": "FR",
+        "date": "02-06-2023",
+        "units": 10,
+        "price": 5.2
+    },
+    {
+        "country": "IN",
+        "date": "09-12-2022",
+        "units": 1,
+        "price": 11.71
+    },
+    {
+        "country": "DE",
+        "date": "20-02-2023",
+        "units": 5,
+        "price": 11.7
+    },
+    {
+        "country": "JP",
+        "date": "15-02-2023",
+        "units": 6,
+        "price": 5.66
+    },
+    {
+        "country": "DE",
+        "date": "07-02-2023",
+        "units": 13,
+        "price": 14.74
+    },
+    {
+        "country": "US",
+        "date": "30-12-2023",
+        "units": 6,
+        "price": 13.83
+    },
+    {
+        "country": "ZA",
+        "date": "28-09-2023",
+        "units": 20,
+        "price": 7.43
+    },
+    {
+        "country": "DE",
+        "date": "20-12-2023",
+        "units": 7,
+        "price": 10.58
+    },
+    {
+        "country": "CA",
+        "date": "14-12-2023",
+        "units": 14,
+        "price": 11.44
+    },
+    {
+        "country": "BR",
+        "date": "09-11-2023",
+        "units": 15,
+        "price": 8.97
+    },
+    {
+        "country": "JP",
+        "date": "01-10-2023",
+        "units": 14,
+        "price": 13.9
+    },
+    {
+        "country": "BR",
+        "date": "08-10-2023",
+        "units": 19,
+        "price": 6.52
+    },
+    {
+        "country": "IN",
+        "date": "26-10-2022",
+        "units": 19,
+        "price": 5.69
+    },
+    {
+        "country": "FR",
+        "date": "30-03-2022",
+        "units": 19,
+        "price": 11.92
+    },
+    {
+        "country": "BR",
+        "date": "29-06-2023",
+        "units": 8,
+        "price": 7.23
+    },
+    {
+        "country": "CN",
+        "date": "04-12-2022",
+        "units": 19,
+        "price": 6.77
+    },
+    {
+        "country": "ZA",
+        "date": "12-03-2022",
+        "units": 18,
+        "price": 11.33
+    },
+    {
+        "country": "JP",
+        "date": "22-04-2022",
+        "units": 17,
+        "price": 14.33
+    },
+    {
+        "country": "BR",
+        "date": "03-11-2023",
+        "units": 13,
+        "price": 6.56
+    },
+    {
+        "country": "ZA",
+        "date": "06-01-2022",
+        "units": 4,
+        "price": 7.49
+    },
+    {
+        "country": "BR",
+        "date": "17-04-2022",
+        "units": 6,
+        "price": 5.6
+    },
+    {
+        "country": "IN",
+        "date": "25-01-2023",
+        "units": 6,
+        "price": 12.09
+    },
+    {
+        "country": "IN",
+        "date": "07-01-2022",
+        "units": 5,
+        "price": 5.16
+    },
+    {
+        "country": "IN",
+        "date": "04-05-2023",
+        "units": 7,
+        "price": 8.72
+    },
+    {
+        "country": "BR",
+        "date": "09-06-2023",
+        "units": 17,
+        "price": 10.27
+    },
+    {
+        "country": "FR",
+        "date": "26-08-2022",
+        "units": 15,
+        "price": 9.98
+    },
+    {
+        "country": "MX",
+        "date": "18-09-2022",
+        "units": 19,
+        "price": 11.87
+    },
+    {
+        "country": "DE",
+        "date": "18-06-2022",
+        "units": 7,
+        "price": 11.47
+    },
+    {
+        "country": "CA",
+        "date": "04-08-2022",
+        "units": 16,
+        "price": 9.54
+    },
+    {
+        "country": "ZA",
+        "date": "16-03-2022",
+        "units": 12,
+        "price": 11.85
+    },
+    {
+        "country": "BR",
+        "date": "25-08-2022",
+        "units": 18,
+        "price": 8.68
+    },
+    {
+        "country": "CN",
+        "date": "03-01-2022",
+        "units": 16,
+        "price": 11.83
+    },
+    {
+        "country": "BR",
+        "date": "05-12-2022",
+        "units": 5,
+        "price": 14.29
+    },
+    {
+        "country": "CN",
+        "date": "21-10-2023",
+        "units": 1,
+        "price": 13.91
+    },
+    {
+        "country": "CA",
+        "date": "04-05-2023",
+        "units": 20,
+        "price": 14.99
+    },
+    {
+        "country": "BR",
+        "date": "06-01-2023",
+        "units": 13,
+        "price": 11.65
+    },
+    {
+        "country": "IN",
+        "date": "01-09-2023",
+        "units": 3,
+        "price": 5.09
+    },
+    {
+        "country": "JP",
+        "date": "12-09-2023",
+        "units": 1,
+        "price": 11.45
+    },
+    {
+        "country": "CA",
+        "date": "15-10-2022",
+        "units": 2,
+        "price": 8.02
+    },
+    {
+        "country": "FR",
+        "date": "08-01-2023",
+        "units": 6,
+        "price": 10.04
+    },
+    {
+        "country": "BR",
+        "date": "17-08-2022",
+        "units": 10,
+        "price": 14.56
+    },
+    {
+        "country": "CA",
+        "date": "16-10-2023",
+        "units": 13,
+        "price": 13.99
+    },
+    {
+        "country": "ZA",
+        "date": "03-06-2022",
+        "units": 2,
+        "price": 7.52
+    },
+    {
+        "country": "IN",
+        "date": "03-03-2022",
+        "units": 11,
+        "price": 7.65
+    },
+    {
+        "country": "JP",
+        "date": "04-07-2022",
+        "units": 13,
+        "price": 14.4
+    },
+    {
+        "country": "DE",
+        "date": "13-12-2023",
+        "units": 13,
+        "price": 7.09
+    },
+    {
+        "country": "IN",
+        "date": "17-10-2023",
+        "units": 19,
+        "price": 14.76
+    },
+    {
+        "country": "MX",
+        "date": "27-05-2022",
+        "units": 1,
+        "price": 8.8
+    },
+    {
+        "country": "US",
+        "date": "18-04-2023",
+        "units": 7,
+        "price": 11.0
+    },
+    {
+        "country": "JP",
+        "date": "01-08-2022",
+        "units": 10,
+        "price": 13.47
+    },
+    {
+        "country": "IN",
+        "date": "29-10-2022",
+        "units": 11,
+        "price": 5.75
+    },
+    {
+        "country": "ZA",
+        "date": "06-05-2023",
+        "units": 13,
+        "price": 10.18
+    },
+    {
+        "country": "FR",
+        "date": "07-04-2023",
+        "units": 17,
+        "price": 8.28
+    },
+    {
+        "country": "ZA",
+        "date": "04-11-2022",
+        "units": 6,
+        "price": 7.28
+    },
+    {
+        "country": "FR",
+        "date": "14-02-2023",
+        "units": 1,
+        "price": 5.3
+    },
+    {
+        "country": "FR",
+        "date": "13-03-2023",
+        "units": 11,
+        "price": 14.08
+    },
+    {
+        "country": "CA",
+        "date": "25-10-2023",
+        "units": 11,
+        "price": 6.44
+    },
+    {
+        "country": "MX",
+        "date": "03-10-2022",
+        "units": 19,
+        "price": 12.68
+    },
+    {
+        "country": "US",
+        "date": "18-05-2023",
+        "units": 18,
+        "price": 11.47
+    },
+    {
+        "country": "US",
+        "date": "05-04-2022",
+        "units": 9,
+        "price": 11.78
+    },
+    {
+        "country": "MX",
+        "date": "17-04-2022",
+        "units": 10,
+        "price": 7.17
+    },
+    {
+        "country": "MX",
+        "date": "23-09-2022",
+        "units": 1,
+        "price": 12.8
+    },
+    {
+        "country": "FR",
+        "date": "15-11-2022",
+        "units": 3,
+        "price": 10.93
+    },
+    {
+        "country": "MX",
+        "date": "15-06-2023",
+        "units": 8,
+        "price": 5.64
+    },
+    {
+        "country": "JP",
+        "date": "02-01-2023",
+        "units": 20,
+        "price": 11.67
+    },
+    {
+        "country": "IN",
+        "date": "09-11-2023",
+        "units": 11,
+        "price": 11.1
+    },
+    {
+        "country": "CN",
+        "date": "13-10-2023",
+        "units": 8,
+        "price": 10.52
+    },
+    {
+        "country": "MX",
+        "date": "14-08-2023",
+        "units": 6,
+        "price": 11.24
+    },
+    {
+        "country": "FR",
+        "date": "08-05-2023",
+        "units": 16,
+        "price": 8.73
+    },
+    {
+        "country": "ZA",
+        "date": "31-05-2023",
+        "units": 16,
+        "price": 12.53
+    },
+    {
+        "country": "US",
+        "date": "23-10-2022",
+        "units": 4,
+        "price": 13.42
+    },
+    {
+        "country": "JP",
+        "date": "13-03-2022",
+        "units": 11,
+        "price": 5.97
+    },
+    {
+        "country": "US",
+        "date": "19-05-2022",
+        "units": 4,
+        "price": 7.32
+    },
+    {
+        "country": "US",
+        "date": "27-09-2023",
+        "units": 2,
+        "price": 11.67
+    },
+    {
+        "country": "MX",
+        "date": "29-11-2023",
+        "units": 2,
+        "price": 14.95
+    },
+    {
+        "country": "DE",
+        "date": "28-01-2023",
+        "units": 19,
+        "price": 9.59
+    },
+    {
+        "country": "ZA",
+        "date": "21-07-2023",
+        "units": 20,
+        "price": 6.72
+    },
+    {
+        "country": "JP",
+        "date": "16-02-2023",
+        "units": 9,
+        "price": 6.93
+    },
+    {
+        "country": "MX",
+        "date": "23-08-2022",
+        "units": 17,
+        "price": 14.88
+    },
+    {
+        "country": "DE",
+        "date": "23-04-2022",
+        "units": 5,
+        "price": 6.65
+    },
+    {
+        "country": "FR",
+        "date": "10-10-2023",
+        "units": 10,
+        "price": 6.98
+    },
+    {
+        "country": "IN",
+        "date": "03-12-2022",
+        "units": 13,
+        "price": 11.68
+    },
+    {
+        "country": "BR",
+        "date": "27-02-2022",
+        "units": 6,
+        "price": 6.09
+    },
+    {
+        "country": "CN",
+        "date": "13-06-2022",
+        "units": 13,
+        "price": 9.01
+    },
+    {
+        "country": "IN",
+        "date": "13-01-2022",
+        "units": 1,
+        "price": 13.05
+    },
+    {
+        "country": "CA",
+        "date": "03-02-2022",
+        "units": 2,
+        "price": 7.63
+    },
+    {
+        "country": "JP",
+        "date": "14-02-2022",
+        "units": 16,
+        "price": 9.06
+    },
+    {
+        "country": "BR",
+        "date": "15-07-2023",
+        "units": 7,
+        "price": 13.06
+    },
+    {
+        "country": "DE",
+        "date": "23-05-2022",
+        "units": 16,
+        "price": 5.64
+    },
+    {
+        "country": "CN",
+        "date": "15-04-2022",
+        "units": 13,
+        "price": 9.38
+    },
+    {
+        "country": "IN",
+        "date": "19-09-2023",
+        "units": 9,
+        "price": 11.82
+    },
+    {
+        "country": "FR",
+        "date": "21-05-2023",
+        "units": 16,
+        "price": 14.44
+    },
+    {
+        "country": "ZA",
+        "date": "16-04-2023",
+        "units": 15,
+        "price": 11.52
+    },
+    {
+        "country": "IN",
+        "date": "05-02-2023",
+        "units": 6,
+        "price": 9.86
+    },
+    {
+        "country": "ZA",
+        "date": "31-05-2023",
+        "units": 11,
+        "price": 14.33
+    },
+    {
+        "country": "MX",
+        "date": "19-05-2022",
+        "units": 5,
+        "price": 11.46
+    },
+    {
+        "country": "JP",
+        "date": "30-12-2023",
+        "units": 19,
+        "price": 5.48
+    },
+    {
+        "country": "CN",
+        "date": "08-07-2022",
+        "units": 5,
+        "price": 9.96
+    },
+    {
+        "country": "BR",
+        "date": "19-04-2022",
+        "units": 11,
+        "price": 11.85
+    },
+    {
+        "country": "US",
+        "date": "29-11-2023",
+        "units": 3,
+        "price": 12.73
+    },
+    {
+        "country": "CN",
+        "date": "21-06-2022",
+        "units": 3,
+        "price": 13.91
+    },
+    {
+        "country": "IN",
+        "date": "11-01-2023",
+        "units": 9,
+        "price": 10.57
+    },
+    {
+        "country": "CA",
+        "date": "06-10-2022",
+        "units": 20,
+        "price": 13.54
+    },
+    {
+        "country": "CA",
+        "date": "10-05-2023",
+        "units": 12,
+        "price": 11.7
+    },
+    {
+        "country": "MX",
+        "date": "10-09-2023",
+        "units": 1,
+        "price": 6.66
+    },
+    {
+        "country": "CA",
+        "date": "30-06-2023",
+        "units": 3,
+        "price": 6.08
+    },
+    {
+        "country": "DE",
+        "date": "05-01-2022",
+        "units": 16,
+        "price": 12.54
+    },
+    {
+        "country": "CN",
+        "date": "28-05-2022",
+        "units": 12,
+        "price": 6.27
+    },
+    {
+        "country": "IN",
+        "date": "09-09-2022",
+        "units": 19,
+        "price": 8.2
+    },
+    {
+        "country": "BR",
+        "date": "06-12-2023",
+        "units": 18,
+        "price": 13.33
+    },
+    {
+        "country": "US",
+        "date": "06-11-2022",
+        "units": 6,
+        "price": 8.42
+    },
+    {
+        "country": "FR",
+        "date": "25-01-2022",
+        "units": 5,
+        "price": 12.37
+    },
+    {
+        "country": "BR",
+        "date": "19-05-2023",
+        "units": 18,
+        "price": 5.31
+    },
+    {
+        "country": "DE",
+        "date": "10-09-2023",
+        "units": 12,
+        "price": 7.09
+    },
+    {
+        "country": "IN",
+        "date": "13-12-2023",
+        "units": 12,
+        "price": 9.73
+    },
+    {
+        "country": "CN",
+        "date": "24-07-2022",
+        "units": 16,
+        "price": 5.88
+    },
+    {
+        "country": "DE",
+        "date": "19-12-2022",
+        "units": 15,
+        "price": 8.68
+    },
+    {
+        "country": "MX",
+        "date": "02-10-2022",
+        "units": 3,
+        "price": 13.51
+    },
+    {
+        "country": "MX",
+        "date": "14-12-2022",
+        "units": 9,
+        "price": 11.37
+    },
+    {
+        "country": "IN",
+        "date": "02-05-2023",
+        "units": 6,
+        "price": 9.59
+    },
+    {
+        "country": "ZA",
+        "date": "12-05-2022",
+        "units": 20,
+        "price": 13.79
+    },
+    {
+        "country": "CA",
+        "date": "31-05-2023",
+        "units": 7,
+        "price": 5.65
+    },
+    {
+        "country": "BR",
+        "date": "21-07-2022",
+        "units": 9,
+        "price": 8.84
+    },
+    {
+        "country": "CA",
+        "date": "23-10-2023",
+        "units": 5,
+        "price": 5.13
+    },
+    {
+        "country": "FR",
+        "date": "13-11-2022",
+        "units": 3,
+        "price": 10.23
+    },
+    {
+        "country": "IN",
+        "date": "10-06-2023",
+        "units": 11,
+        "price": 7.02
+    },
+    {
+        "country": "FR",
+        "date": "18-04-2023",
+        "units": 18,
+        "price": 9.59
+    },
+    {
+        "country": "US",
+        "date": "02-10-2023",
+        "units": 1,
+        "price": 7.54
+    },
+    {
+        "country": "ZA",
+        "date": "01-04-2023",
+        "units": 12,
+        "price": 14.79
+    },
+    {
+        "country": "BR",
+        "date": "03-01-2022",
+        "units": 6,
+        "price": 5.96
+    },
+    {
+        "country": "US",
+        "date": "11-01-2022",
+        "units": 6,
+        "price": 5.97
+    },
+    {
+        "country": "MX",
+        "date": "16-11-2023",
+        "units": 14,
+        "price": 12.69
+    },
+    {
+        "country": "US",
+        "date": "27-08-2023",
+        "units": 18,
+        "price": 10.42
+    },
+    {
+        "country": "US",
+        "date": "03-06-2022",
+        "units": 6,
+        "price": 10.12
+    },
+    {
+        "country": "ZA",
+        "date": "04-07-2022",
+        "units": 7,
+        "price": 5.52
+    },
+    {
+        "country": "ZA",
+        "date": "09-02-2023",
+        "units": 20,
+        "price": 13.83
+    },
+    {
+        "country": "ZA",
+        "date": "22-04-2022",
+        "units": 12,
+        "price": 7.84
+    },
+    {
+        "country": "BR",
+        "date": "20-05-2022",
+        "units": 10,
+        "price": 9.98
+    },
+    {
+        "country": "DE",
+        "date": "17-02-2022",
+        "units": 8,
+        "price": 10.37
+    },
+    {
+        "country": "DE",
+        "date": "26-12-2023",
+        "units": 2,
+        "price": 5.3
+    },
+    {
+        "country": "DE",
+        "date": "23-01-2023",
+        "units": 19,
+        "price": 6.43
+    },
+    {
+        "country": "ZA",
+        "date": "18-07-2022",
+        "units": 14,
+        "price": 10.22
+    },
+    {
+        "country": "MX",
+        "date": "03-11-2023",
+        "units": 11,
+        "price": 11.47
+    },
+    {
+        "country": "IN",
+        "date": "02-05-2022",
+        "units": 3,
+        "price": 13.57
+    },
+    {
+        "country": "DE",
+        "date": "12-01-2023",
+        "units": 5,
+        "price": 13.37
+    },
+    {
+        "country": "ZA",
+        "date": "25-11-2022",
+        "units": 9,
+        "price": 5.8
+    },
+    {
+        "country": "CN",
+        "date": "01-10-2023",
+        "units": 20,
+        "price": 8.04
+    },
+    {
+        "country": "CN",
+        "date": "31-05-2023",
+        "units": 3,
+        "price": 9.38
+    },
+    {
+        "country": "US",
+        "date": "26-03-2023",
+        "units": 15,
+        "price": 13.04
+    },
+    {
+        "country": "CN",
+        "date": "09-07-2023",
+        "units": 18,
+        "price": 8.58
+    },
+    {
+        "country": "CA",
+        "date": "29-10-2022",
+        "units": 10,
+        "price": 6.45
+    },
+    {
+        "country": "CN",
+        "date": "12-04-2023",
+        "units": 3,
+        "price": 11.55
+    },
+    {
+        "country": "ZA",
+        "date": "16-08-2022",
+        "units": 9,
+        "price": 14.5
+    },
+    {
+        "country": "CN",
+        "date": "22-10-2023",
+        "units": 8,
+        "price": 11.76
+    },
+    {
+        "country": "JP",
+        "date": "18-09-2022",
+        "units": 16,
+        "price": 10.78
+    },
+    {
+        "country": "CA",
+        "date": "22-01-2022",
+        "units": 10,
+        "price": 9.31
+    },
+    {
+        "country": "IN",
+        "date": "06-10-2022",
+        "units": 2,
+        "price": 5.22
+    },
+    {
+        "country": "BR",
+        "date": "16-09-2022",
+        "units": 12,
+        "price": 9.31
+    },
+    {
+        "country": "FR",
+        "date": "06-04-2022",
+        "units": 19,
+        "price": 14.65
+    },
+    {
+        "country": "ZA",
+        "date": "08-11-2023",
+        "units": 16,
+        "price": 13.15
+    },
+    {
+        "country": "ZA",
+        "date": "13-07-2023",
+        "units": 9,
+        "price": 9.31
+    },
+    {
+        "country": "CN",
+        "date": "13-03-2022",
+        "units": 17,
+        "price": 6.91
+    },
+    {
+        "country": "US",
+        "date": "07-03-2023",
+        "units": 1,
+        "price": 9.44
+    },
+    {
+        "country": "JP",
+        "date": "16-05-2022",
+        "units": 4,
+        "price": 11.0
+    },
+    {
+        "country": "CN",
+        "date": "05-10-2022",
+        "units": 8,
+        "price": 8.21
+    },
+    {
+        "country": "JP",
+        "date": "31-10-2022",
+        "units": 16,
+        "price": 5.72
+    },
+    {
+        "country": "BR",
+        "date": "12-06-2022",
+        "units": 3,
+        "price": 8.96
+    },
+    {
+        "country": "IN",
+        "date": "11-09-2022",
+        "units": 17,
+        "price": 7.37
+    },
+    {
+        "country": "CN",
+        "date": "30-05-2022",
+        "units": 9,
+        "price": 12.09
+    },
+    {
+        "country": "ZA",
+        "date": "21-11-2022",
+        "units": 17,
+        "price": 8.78
+    },
+    {
+        "country": "DE",
+        "date": "17-08-2023",
+        "units": 8,
+        "price": 8.74
+    },
+    {
+        "country": "US",
+        "date": "15-11-2022",
+        "units": 16,
+        "price": 9.48
+    },
+    {
+        "country": "BR",
+        "date": "07-05-2022",
+        "units": 11,
+        "price": 7.05
+    },
+    {
+        "country": "ZA",
+        "date": "17-11-2022",
+        "units": 16,
+        "price": 11.14
+    },
+    {
+        "country": "CA",
+        "date": "02-09-2023",
+        "units": 1,
+        "price": 12.37
+    },
+    {
+        "country": "DE",
+        "date": "05-09-2022",
+        "units": 19,
+        "price": 11.99
+    },
+    {
+        "country": "CN",
+        "date": "04-05-2022",
+        "units": 5,
+        "price": 7.35
+    },
+    {
+        "country": "CN",
+        "date": "26-11-2022",
+        "units": 10,
+        "price": 5.86
+    },
+    {
+        "country": "DE",
+        "date": "05-12-2022",
+        "units": 6,
+        "price": 14.3
+    },
+    {
+        "country": "US",
+        "date": "06-05-2023",
+        "units": 19,
+        "price": 10.41
+    },
+    {
+        "country": "ZA",
+        "date": "09-08-2022",
+        "units": 2,
+        "price": 5.72
+    },
+    {
+        "country": "JP",
+        "date": "25-04-2022",
+        "units": 8,
+        "price": 8.95
+    },
+    {
+        "country": "JP",
+        "date": "05-06-2023",
+        "units": 20,
+        "price": 5.51
+    },
+    {
+        "country": "DE",
+        "date": "03-11-2023",
+        "units": 3,
+        "price": 5.78
+    },
+    {
+        "country": "IN",
+        "date": "26-12-2022",
+        "units": 16,
+        "price": 9.83
+    },
+    {
+        "country": "MX",
+        "date": "26-10-2022",
+        "units": 12,
+        "price": 6.09
+    },
+    {
+        "country": "FR",
+        "date": "08-04-2022",
+        "units": 1,
+        "price": 6.74
+    },
+    {
+        "country": "BR",
+        "date": "02-10-2023",
+        "units": 11,
+        "price": 9.96
+    },
+    {
+        "country": "DE",
+        "date": "28-07-2022",
+        "units": 12,
+        "price": 7.85
+    },
+    {
+        "country": "IN",
+        "date": "03-09-2023",
+        "units": 15,
+        "price": 8.61
+    },
+    {
+        "country": "BR",
+        "date": "28-08-2023",
+        "units": 17,
+        "price": 8.58
+    },
+    {
+        "country": "MX",
+        "date": "11-12-2022",
+        "units": 18,
+        "price": 11.97
+    },
+    {
+        "country": "US",
+        "date": "26-06-2023",
+        "units": 2,
+        "price": 8.63
+    },
+    {
+        "country": "CN",
+        "date": "29-03-2023",
+        "units": 17,
+        "price": 9.58
+    },
+    {
+        "country": "CN",
+        "date": "27-01-2022",
+        "units": 13,
+        "price": 8.34
+    },
+    {
+        "country": "ZA",
+        "date": "29-08-2023",
+        "units": 7,
+        "price": 9.13
+    },
+    {
+        "country": "DE",
+        "date": "04-10-2023",
+        "units": 12,
+        "price": 10.49
+    },
+    {
+        "country": "ZA",
+        "date": "24-02-2022",
+        "units": 2,
+        "price": 8.44
+    },
+    {
+        "country": "ZA",
+        "date": "31-12-2022",
+        "units": 15,
+        "price": 6.51
+    },
+    {
+        "country": "ZA",
+        "date": "20-12-2022",
+        "units": 18,
+        "price": 11.28
+    },
+    {
+        "country": "DE",
+        "date": "16-07-2023",
+        "units": 9,
+        "price": 10.51
+    },
+    {
+        "country": "BR",
+        "date": "01-05-2023",
+        "units": 18,
+        "price": 6.8
+    },
+    {
+        "country": "FR",
+        "date": "21-03-2022",
+        "units": 13,
+        "price": 9.11
+    },
+    {
+        "country": "US",
+        "date": "30-07-2023",
+        "units": 11,
+        "price": 14.61
+    },
+    {
+        "country": "ZA",
+        "date": "17-06-2023",
+        "units": 14,
+        "price": 6.31
+    },
+    {
+        "country": "JP",
+        "date": "03-02-2023",
+        "units": 7,
+        "price": 11.43
+    },
+    {
+        "country": "DE",
+        "date": "30-06-2023",
+        "units": 1,
+        "price": 12.17
+    },
+    {
+        "country": "US",
+        "date": "14-11-2023",
+        "units": 19,
+        "price": 9.37
+    },
+    {
+        "country": "CN",
+        "date": "09-09-2022",
+        "units": 6,
+        "price": 13.33
+    },
+    {
+        "country": "FR",
+        "date": "06-04-2022",
+        "units": 4,
+        "price": 9.56
+    },
+    {
+        "country": "US",
+        "date": "09-04-2023",
+        "units": 9,
+        "price": 14.13
+    },
+    {
+        "country": "ZA",
+        "date": "28-01-2022",
+        "units": 5,
+        "price": 5.46
+    },
+    {
+        "country": "US",
+        "date": "15-10-2023",
+        "units": 13,
+        "price": 10.12
+    },
+    {
+        "country": "MX",
+        "date": "31-10-2022",
+        "units": 13,
+        "price": 5.05
+    },
+    {
+        "country": "ZA",
+        "date": "13-08-2022",
+        "units": 2,
+        "price": 6.32
+    },
+    {
+        "country": "FR",
+        "date": "27-08-2022",
+        "units": 7,
+        "price": 7.18
+    },
+    {
+        "country": "FR",
+        "date": "24-09-2023",
+        "units": 20,
+        "price": 5.13
+    },
+    {
+        "country": "BR",
+        "date": "03-11-2023",
+        "units": 13,
+        "price": 8.72
+    },
+    {
+        "country": "CA",
+        "date": "09-05-2022",
+        "units": 18,
+        "price": 13.84
+    },
+    {
+        "country": "CA",
+        "date": "24-06-2023",
+        "units": 11,
+        "price": 13.9
+    },
+    {
+        "country": "DE",
+        "date": "27-04-2023",
+        "units": 19,
+        "price": 6.52
+    },
+    {
+        "country": "CA",
+        "date": "18-08-2023",
+        "units": 20,
+        "price": 6.1
+    },
+    {
+        "country": "MX",
+        "date": "27-01-2022",
+        "units": 10,
+        "price": 12.71
+    },
+    {
+        "country": "IN",
+        "date": "25-09-2023",
+        "units": 6,
+        "price": 7.6
+    },
+    {
+        "country": "MX",
+        "date": "15-07-2023",
+        "units": 3,
+        "price": 8.46
+    },
+    {
+        "country": "ZA",
+        "date": "30-01-2023",
+        "units": 19,
+        "price": 12.4
+    },
+    {
+        "country": "ZA",
+        "date": "03-06-2023",
+        "units": 17,
+        "price": 14.88
+    },
+    {
+        "country": "FR",
+        "date": "20-05-2022",
+        "units": 6,
+        "price": 10.81
+    },
+    {
+        "country": "FR",
+        "date": "31-08-2022",
+        "units": 15,
+        "price": 13.83
+    },
+    {
+        "country": "US",
+        "date": "15-03-2023",
+        "units": 7,
+        "price": 13.96
+    },
+    {
+        "country": "MX",
+        "date": "22-06-2023",
+        "units": 2,
+        "price": 7.44
+    },
+    {
+        "country": "CA",
+        "date": "07-02-2023",
+        "units": 20,
+        "price": 12.02
+    },
+    {
+        "country": "US",
+        "date": "13-10-2023",
+        "units": 9,
+        "price": 14.11
+    },
+    {
+        "country": "CA",
+        "date": "10-10-2022",
+        "units": 5,
+        "price": 7.84
+    },
+    {
+        "country": "DE",
+        "date": "18-02-2022",
+        "units": 15,
+        "price": 12.76
+    },
+    {
+        "country": "ZA",
+        "date": "17-01-2022",
+        "units": 8,
+        "price": 5.26
+    },
+    {
+        "country": "ZA",
+        "date": "22-08-2023",
+        "units": 7,
+        "price": 9.72
+    },
+    {
+        "country": "ZA",
+        "date": "28-01-2023",
+        "units": 2,
+        "price": 14.5
+    },
+    {
+        "country": "IN",
+        "date": "28-12-2023",
+        "units": 10,
+        "price": 8.1
+    },
+    {
+        "country": "CA",
+        "date": "28-10-2022",
+        "units": 10,
+        "price": 8.61
+    },
+    {
+        "country": "ZA",
+        "date": "14-02-2023",
+        "units": 8,
+        "price": 10.9
+    },
+    {
+        "country": "MX",
+        "date": "04-09-2023",
+        "units": 18,
+        "price": 14.6
+    },
+    {
+        "country": "CA",
+        "date": "22-09-2022",
+        "units": 5,
+        "price": 13.3
+    },
+    {
+        "country": "BR",
+        "date": "24-02-2022",
+        "units": 2,
+        "price": 12.62
+    },
+    {
+        "country": "US",
+        "date": "06-07-2023",
+        "units": 4,
+        "price": 5.41
+    },
+    {
+        "country": "US",
+        "date": "03-12-2023",
+        "units": 11,
+        "price": 9.71
+    },
+    {
+        "country": "US",
+        "date": "10-02-2022",
+        "units": 20,
+        "price": 13.9
+    },
+    {
+        "country": "CA",
+        "date": "17-05-2022",
+        "units": 5,
+        "price": 12.21
+    },
+    {
+        "country": "IN",
+        "date": "28-03-2023",
+        "units": 15,
+        "price": 9.84
+    },
+    {
+        "country": "MX",
+        "date": "16-07-2022",
+        "units": 1,
+        "price": 9.96
+    },
+    {
+        "country": "JP",
+        "date": "08-11-2022",
+        "units": 5,
+        "price": 6.39
+    },
+    {
+        "country": "US",
+        "date": "05-11-2022",
+        "units": 9,
+        "price": 10.13
+    },
+    {
+        "country": "JP",
+        "date": "27-03-2022",
+        "units": 17,
+        "price": 6.56
+    },
+    {
+        "country": "DE",
+        "date": "29-12-2023",
+        "units": 13,
+        "price": 13.09
+    },
+    {
+        "country": "FR",
+        "date": "10-09-2022",
+        "units": 16,
+        "price": 9.65
+    },
+    {
+        "country": "CA",
+        "date": "09-02-2023",
+        "units": 14,
+        "price": 11.32
+    },
+    {
+        "country": "CN",
+        "date": "05-03-2023",
+        "units": 1,
+        "price": 7.2
+    },
+    {
+        "country": "FR",
+        "date": "13-09-2022",
+        "units": 11,
+        "price": 9.9
+    },
+    {
+        "country": "IN",
+        "date": "06-09-2023",
+        "units": 16,
+        "price": 12.5
+    },
+    {
+        "country": "IN",
+        "date": "15-03-2023",
+        "units": 19,
+        "price": 8.98
+    },
+    {
+        "country": "IN",
+        "date": "12-09-2022",
+        "units": 11,
+        "price": 5.7
+    },
+    {
+        "country": "DE",
+        "date": "23-08-2023",
+        "units": 17,
+        "price": 9.83
+    },
+    {
+        "country": "JP",
+        "date": "12-01-2023",
+        "units": 19,
+        "price": 7.94
+    },
+    {
+        "country": "BR",
+        "date": "08-07-2022",
+        "units": 3,
+        "price": 9.99
+    },
+    {
+        "country": "BR",
+        "date": "28-10-2023",
+        "units": 2,
+        "price": 13.06
+    },
+    {
+        "country": "ZA",
+        "date": "27-03-2023",
+        "units": 1,
+        "price": 14.66
+    },
+    {
+        "country": "CN",
+        "date": "19-01-2022",
+        "units": 13,
+        "price": 5.41
+    },
+    {
+        "country": "MX",
+        "date": "24-03-2022",
+        "units": 16,
+        "price": 13.68
+    },
+    {
+        "country": "ZA",
+        "date": "13-10-2023",
+        "units": 7,
+        "price": 12.15
+    },
+    {
+        "country": "JP",
+        "date": "19-12-2022",
+        "units": 1,
+        "price": 8.87
+    },
+    {
+        "country": "IN",
+        "date": "25-07-2023",
+        "units": 16,
+        "price": 10.23
+    },
+    {
+        "country": "JP",
+        "date": "30-08-2023",
+        "units": 7,
+        "price": 5.57
+    },
+    {
+        "country": "US",
+        "date": "03-12-2023",
+        "units": 12,
+        "price": 14.79
+    },
+    {
+        "country": "US",
+        "date": "21-03-2023",
+        "units": 17,
+        "price": 8.83
+    },
+    {
+        "country": "MX",
+        "date": "22-01-2022",
+        "units": 2,
+        "price": 7.9
+    },
+    {
+        "country": "CA",
+        "date": "24-06-2023",
+        "units": 14,
+        "price": 13.29
+    },
+    {
+        "country": "ZA",
+        "date": "30-05-2022",
+        "units": 13,
+        "price": 5.32
+    },
+    {
+        "country": "BR",
+        "date": "23-05-2023",
+        "units": 20,
+        "price": 13.08
+    },
+    {
+        "country": "BR",
+        "date": "18-09-2022",
+        "units": 8,
+        "price": 12.66
+    },
+    {
+        "country": "IN",
+        "date": "18-06-2022",
+        "units": 4,
+        "price": 11.21
+    },
+    {
+        "country": "CA",
+        "date": "03-01-2022",
+        "units": 18,
+        "price": 14.98
+    },
+    {
+        "country": "JP",
+        "date": "28-10-2023",
+        "units": 5,
+        "price": 8.36
+    },
+    {
+        "country": "JP",
+        "date": "19-02-2022",
+        "units": 11,
+        "price": 5.06
+    },
+    {
+        "country": "CA",
+        "date": "24-02-2022",
+        "units": 19,
+        "price": 13.0
+    },
+    {
+        "country": "US",
+        "date": "12-11-2022",
+        "units": 17,
+        "price": 7.83
+    },
+    {
+        "country": "CA",
+        "date": "26-01-2022",
+        "units": 10,
+        "price": 10.22
+    },
+    {
+        "country": "BR",
+        "date": "06-08-2023",
+        "units": 7,
+        "price": 8.95
+    },
+    {
+        "country": "BR",
+        "date": "10-12-2022",
+        "units": 19,
+        "price": 13.77
+    },
+    {
+        "country": "MX",
+        "date": "20-06-2023",
+        "units": 10,
+        "price": 5.71
+    },
+    {
+        "country": "DE",
+        "date": "24-09-2023",
+        "units": 7,
+        "price": 7.06
+    },
+    {
+        "country": "CA",
+        "date": "12-06-2023",
+        "units": 18,
+        "price": 6.56
+    },
+    {
+        "country": "US",
+        "date": "18-04-2022",
+        "units": 7,
+        "price": 9.95
+    },
+    {
+        "country": "IN",
+        "date": "26-10-2023",
+        "units": 11,
+        "price": 8.62
+    },
+    {
+        "country": "JP",
+        "date": "08-10-2023",
+        "units": 14,
+        "price": 14.28
+    },
+    {
+        "country": "DE",
+        "date": "06-09-2022",
+        "units": 4,
+        "price": 8.94
+    },
+    {
+        "country": "JP",
+        "date": "13-09-2022",
+        "units": 19,
+        "price": 13.73
+    },
+    {
+        "country": "US",
+        "date": "19-09-2023",
+        "units": 6,
+        "price": 9.52
+    },
+    {
+        "country": "IN",
+        "date": "03-03-2023",
+        "units": 6,
+        "price": 11.11
+    },
+    {
+        "country": "CN",
+        "date": "10-01-2022",
+        "units": 17,
+        "price": 8.62
+    },
+    {
+        "country": "FR",
+        "date": "05-08-2023",
+        "units": 11,
+        "price": 8.22
+    },
+    {
+        "country": "CN",
+        "date": "10-04-2022",
+        "units": 15,
+        "price": 12.49
+    },
+    {
+        "country": "DE",
+        "date": "13-06-2023",
+        "units": 19,
+        "price": 10.98
+    },
+    {
+        "country": "ZA",
+        "date": "08-05-2022",
+        "units": 8,
+        "price": 8.18
+    },
+    {
+        "country": "DE",
+        "date": "13-07-2023",
+        "units": 7,
+        "price": 7.71
+    },
+    {
+        "country": "CA",
+        "date": "23-09-2023",
+        "units": 15,
+        "price": 12.46
+    },
+    {
+        "country": "CA",
+        "date": "31-03-2022",
+        "units": 18,
+        "price": 10.81
+    },
+    {
+        "country": "CN",
+        "date": "05-09-2022",
+        "units": 9,
+        "price": 10.22
+    },
+    {
+        "country": "IN",
+        "date": "31-10-2023",
+        "units": 6,
+        "price": 7.96
+    },
+    {
+        "country": "MX",
+        "date": "12-01-2022",
+        "units": 3,
+        "price": 8.75
+    },
+    {
+        "country": "DE",
+        "date": "25-05-2022",
+        "units": 3,
+        "price": 5.26
+    },
+    {
+        "country": "CN",
+        "date": "26-11-2022",
+        "units": 3,
+        "price": 11.39
+    },
+    {
+        "country": "FR",
+        "date": "27-05-2022",
+        "units": 9,
+        "price": 13.86
+    },
+    {
+        "country": "CA",
+        "date": "16-03-2023",
+        "units": 12,
+        "price": 12.66
+    },
+    {
+        "country": "IN",
+        "date": "21-09-2022",
+        "units": 10,
+        "price": 14.19
+    },
+    {
+        "country": "BR",
+        "date": "19-02-2022",
+        "units": 1,
+        "price": 11.24
+    },
+    {
+        "country": "BR",
+        "date": "13-12-2023",
+        "units": 12,
+        "price": 13.2
+    },
+    {
+        "country": "ZA",
+        "date": "11-03-2023",
+        "units": 19,
+        "price": 9.47
+    },
+    {
+        "country": "MX",
+        "date": "26-02-2023",
+        "units": 13,
+        "price": 10.76
+    },
+    {
+        "country": "CN",
+        "date": "04-02-2023",
+        "units": 3,
+        "price": 14.31
+    },
+    {
+        "country": "US",
+        "date": "16-08-2023",
+        "units": 14,
+        "price": 13.52
+    },
+    {
+        "country": "BR",
+        "date": "26-03-2023",
+        "units": 14,
+        "price": 14.41
+    },
+    {
+        "country": "JP",
+        "date": "23-08-2022",
+        "units": 14,
+        "price": 12.37
+    },
+    {
+        "country": "JP",
+        "date": "24-07-2023",
+        "units": 16,
+        "price": 5.52
+    },
+    {
+        "country": "CN",
+        "date": "14-09-2023",
+        "units": 7,
+        "price": 13.02
+    },
+    {
+        "country": "CN",
+        "date": "14-03-2023",
+        "units": 6,
+        "price": 14.36
+    },
+    {
+        "country": "CN",
+        "date": "16-05-2022",
+        "units": 4,
+        "price": 12.71
+    },
+    {
+        "country": "IN",
+        "date": "10-04-2023",
+        "units": 9,
+        "price": 8.19
+    },
+    {
+        "country": "MX",
+        "date": "09-09-2023",
+        "units": 6,
+        "price": 9.82
+    },
+    {
+        "country": "CA",
+        "date": "12-10-2023",
+        "units": 2,
+        "price": 8.8
+    },
+    {
+        "country": "CA",
+        "date": "07-06-2022",
+        "units": 7,
+        "price": 13.28
+    },
+    {
+        "country": "CN",
+        "date": "05-11-2023",
+        "units": 15,
+        "price": 6.71
+    },
+    {
+        "country": "DE",
+        "date": "07-07-2022",
+        "units": 5,
+        "price": 13.94
+    },
+    {
+        "country": "JP",
+        "date": "27-09-2022",
+        "units": 13,
+        "price": 13.52
+    },
+    {
+        "country": "JP",
+        "date": "15-04-2022",
+        "units": 16,
+        "price": 13.64
+    },
+    {
+        "country": "FR",
+        "date": "05-04-2022",
+        "units": 5,
+        "price": 13.91
+    },
+    {
+        "country": "DE",
+        "date": "27-12-2023",
+        "units": 1,
+        "price": 12.49
+    },
+    {
+        "country": "US",
+        "date": "24-11-2022",
+        "units": 6,
+        "price": 11.07
+    },
+    {
+        "country": "ZA",
+        "date": "28-07-2023",
+        "units": 9,
+        "price": 6.13
+    },
+    {
+        "country": "JP",
+        "date": "22-06-2022",
+        "units": 9,
+        "price": 11.71
+    },
+    {
+        "country": "IN",
+        "date": "09-09-2022",
+        "units": 6,
+        "price": 10.23
+    },
+    {
+        "country": "BR",
+        "date": "24-09-2023",
+        "units": 18,
+        "price": 6.42
+    },
+    {
+        "country": "JP",
+        "date": "10-11-2023",
+        "units": 2,
+        "price": 8.67
+    },
+    {
+        "country": "MX",
+        "date": "20-02-2022",
+        "units": 4,
+        "price": 10.31
+    },
+    {
+        "country": "IN",
+        "date": "08-03-2023",
+        "units": 16,
+        "price": 11.26
+    },
+    {
+        "country": "BR",
+        "date": "15-01-2023",
+        "units": 1,
+        "price": 13.27
+    },
+    {
+        "country": "CN",
+        "date": "31-07-2023",
+        "units": 9,
+        "price": 10.06
+    },
+    {
+        "country": "CN",
+        "date": "14-10-2022",
+        "units": 9,
+        "price": 12.02
+    },
+    {
+        "country": "ZA",
+        "date": "19-05-2022",
+        "units": 17,
+        "price": 5.07
+    },
+    {
+        "country": "BR",
+        "date": "23-07-2022",
+        "units": 10,
+        "price": 5.99
+    },
+    {
+        "country": "ZA",
+        "date": "16-10-2023",
+        "units": 14,
+        "price": 7.93
+    },
+    {
+        "country": "MX",
+        "date": "30-04-2022",
+        "units": 14,
+        "price": 5.23
+    },
+    {
+        "country": "DE",
+        "date": "06-07-2023",
+        "units": 7,
+        "price": 11.07
+    },
+    {
+        "country": "JP",
+        "date": "02-08-2022",
+        "units": 5,
+        "price": 9.77
+    },
+    {
+        "country": "JP",
+        "date": "16-09-2022",
+        "units": 2,
+        "price": 10.68
+    },
+    {
+        "country": "US",
+        "date": "07-09-2023",
+        "units": 4,
+        "price": 7.18
+    },
+    {
+        "country": "DE",
+        "date": "26-12-2023",
+        "units": 7,
+        "price": 8.28
+    },
+    {
+        "country": "US",
+        "date": "17-03-2022",
+        "units": 14,
+        "price": 7.41
+    },
+    {
+        "country": "CN",
+        "date": "01-03-2022",
+        "units": 13,
+        "price": 14.12
+    },
+    {
+        "country": "CA",
+        "date": "27-10-2023",
+        "units": 1,
+        "price": 12.0
+    },
+    {
+        "country": "JP",
+        "date": "08-06-2023",
+        "units": 12,
+        "price": 7.39
+    },
+    {
+        "country": "CA",
+        "date": "12-12-2022",
+        "units": 3,
+        "price": 14.26
+    },
+    {
+        "country": "BR",
+        "date": "21-02-2022",
+        "units": 10,
+        "price": 14.54
+    },
+    {
+        "country": "ZA",
+        "date": "18-11-2022",
+        "units": 1,
+        "price": 11.16
+    },
+    {
+        "country": "BR",
+        "date": "02-06-2023",
+        "units": 1,
+        "price": 12.56
+    },
+    {
+        "country": "MX",
+        "date": "11-12-2022",
+        "units": 17,
+        "price": 6.45
+    },
+    {
+        "country": "DE",
+        "date": "10-08-2022",
+        "units": 5,
+        "price": 5.32
+    },
+    {
+        "country": "BR",
+        "date": "29-11-2022",
+        "units": 3,
+        "price": 10.5
+    },
+    {
+        "country": "BR",
+        "date": "07-04-2022",
+        "units": 6,
+        "price": 5.92
+    },
+    {
+        "country": "US",
+        "date": "15-10-2023",
+        "units": 1,
+        "price": 14.78
+    },
+    {
+        "country": "IN",
+        "date": "16-12-2022",
+        "units": 4,
+        "price": 7.36
+    },
+    {
+        "country": "CA",
+        "date": "07-06-2023",
+        "units": 17,
+        "price": 12.49
+    },
+    {
+        "country": "ZA",
+        "date": "05-06-2023",
+        "units": 18,
+        "price": 5.55
+    },
+    {
+        "country": "BR",
+        "date": "09-09-2022",
+        "units": 17,
+        "price": 11.6
+    },
+    {
+        "country": "DE",
+        "date": "07-11-2023",
+        "units": 16,
+        "price": 10.43
+    },
+    {
+        "country": "IN",
+        "date": "31-10-2023",
+        "units": 8,
+        "price": 8.45
+    },
+    {
+        "country": "CA",
+        "date": "23-03-2022",
+        "units": 13,
+        "price": 8.07
+    },
+    {
+        "country": "CA",
+        "date": "28-08-2023",
+        "units": 11,
+        "price": 7.43
+    },
+    {
+        "country": "FR",
+        "date": "12-09-2023",
+        "units": 14,
+        "price": 10.15
+    },
+    {
+        "country": "JP",
+        "date": "15-02-2023",
+        "units": 3,
+        "price": 13.01
+    },
+    {
+        "country": "DE",
+        "date": "02-05-2023",
+        "units": 1,
+        "price": 13.66
+    },
+    {
+        "country": "MX",
+        "date": "27-04-2023",
+        "units": 16,
+        "price": 14.42
+    },
+    {
+        "country": "US",
+        "date": "14-09-2023",
+        "units": 6,
+        "price": 7.94
+    },
+    {
+        "country": "FR",
+        "date": "13-06-2022",
+        "units": 1,
+        "price": 11.88
+    },
+    {
+        "country": "ZA",
+        "date": "28-02-2022",
+        "units": 7,
+        "price": 9.18
+    },
+    {
+        "country": "JP",
+        "date": "28-12-2022",
+        "units": 12,
+        "price": 5.62
+    },
+    {
+        "country": "CN",
+        "date": "29-12-2022",
+        "units": 18,
+        "price": 9.27
+    },
+    {
+        "country": "CA",
+        "date": "24-12-2022",
+        "units": 15,
+        "price": 10.5
+    },
+    {
+        "country": "JP",
+        "date": "04-06-2022",
+        "units": 2,
+        "price": 10.8
+    },
+    {
+        "country": "FR",
+        "date": "16-11-2023",
+        "units": 2,
+        "price": 7.37
+    },
+    {
+        "country": "CN",
+        "date": "14-09-2023",
+        "units": 2,
+        "price": 11.68
+    },
+    {
+        "country": "FR",
+        "date": "20-01-2023",
+        "units": 11,
+        "price": 7.94
+    },
+    {
+        "country": "FR",
+        "date": "12-09-2023",
+        "units": 15,
+        "price": 13.39
+    },
+    {
+        "country": "IN",
+        "date": "28-12-2022",
+        "units": 15,
+        "price": 8.54
+    },
+    {
+        "country": "CA",
+        "date": "01-10-2023",
+        "units": 15,
+        "price": 10.12
+    },
+    {
+        "country": "IN",
+        "date": "26-07-2022",
+        "units": 4,
+        "price": 6.32
+    },
+    {
+        "country": "MX",
+        "date": "01-07-2022",
+        "units": 1,
+        "price": 10.98
+    },
+    {
+        "country": "MX",
+        "date": "07-01-2022",
+        "units": 12,
+        "price": 7.92
+    },
+    {
+        "country": "FR",
+        "date": "27-05-2023",
+        "units": 10,
+        "price": 13.98
+    },
+    {
+        "country": "IN",
+        "date": "29-07-2023",
+        "units": 7,
+        "price": 9.54
+    },
+    {
+        "country": "CA",
+        "date": "06-04-2023",
+        "units": 10,
+        "price": 5.58
+    },
+    {
+        "country": "CA",
+        "date": "12-09-2023",
+        "units": 17,
+        "price": 11.5
+    },
+    {
+        "country": "FR",
+        "date": "25-03-2022",
+        "units": 5,
+        "price": 10.67
+    },
+    {
+        "country": "ZA",
+        "date": "02-09-2023",
+        "units": 12,
+        "price": 9.45
+    },
+    {
+        "country": "CA",
+        "date": "22-09-2023",
+        "units": 4,
+        "price": 8.31
+    },
+    {
+        "country": "ZA",
+        "date": "05-07-2022",
+        "units": 3,
+        "price": 7.59
+    },
+    {
+        "country": "CN",
+        "date": "03-10-2022",
+        "units": 8,
+        "price": 13.83
+    },
+    {
+        "country": "BR",
+        "date": "27-09-2023",
+        "units": 3,
+        "price": 9.82
+    },
+    {
+        "country": "US",
+        "date": "05-06-2023",
+        "units": 9,
+        "price": 5.88
+    },
+    {
+        "country": "CA",
+        "date": "14-08-2023",
+        "units": 17,
+        "price": 13.49
+    },
+    {
+        "country": "US",
+        "date": "02-12-2023",
+        "units": 3,
+        "price": 7.94
+    },
+    {
+        "country": "FR",
+        "date": "17-05-2022",
+        "units": 5,
+        "price": 5.68
+    },
+    {
+        "country": "ZA",
+        "date": "11-03-2022",
+        "units": 18,
+        "price": 5.72
+    },
+    {
+        "country": "JP",
+        "date": "11-06-2023",
+        "units": 17,
+        "price": 14.58
+    },
+    {
+        "country": "FR",
+        "date": "23-03-2023",
+        "units": 16,
+        "price": 14.6
+    },
+    {
+        "country": "CA",
+        "date": "25-01-2022",
+        "units": 1,
+        "price": 5.19
+    },
+    {
+        "country": "IN",
+        "date": "21-05-2023",
+        "units": 12,
+        "price": 13.54
+    },
+    {
+        "country": "FR",
+        "date": "21-02-2022",
+        "units": 1,
+        "price": 5.93
+    },
+    {
+        "country": "MX",
+        "date": "29-05-2022",
+        "units": 12,
+        "price": 10.31
+    },
+    {
+        "country": "BR",
+        "date": "30-06-2022",
+        "units": 11,
+        "price": 12.46
+    },
+    {
+        "country": "ZA",
+        "date": "12-01-2022",
+        "units": 8,
+        "price": 6.51
+    },
+    {
+        "country": "ZA",
+        "date": "08-09-2023",
+        "units": 10,
+        "price": 8.46
+    },
+    {
+        "country": "FR",
+        "date": "10-10-2022",
+        "units": 13,
+        "price": 10.05
+    },
+    {
+        "country": "JP",
+        "date": "27-12-2022",
+        "units": 16,
+        "price": 13.27
+    },
+    {
+        "country": "ZA",
+        "date": "08-03-2023",
+        "units": 17,
+        "price": 6.41
+    },
+    {
+        "country": "IN",
+        "date": "27-03-2023",
+        "units": 4,
+        "price": 11.08
+    },
+    {
+        "country": "ZA",
+        "date": "29-07-2022",
+        "units": 17,
+        "price": 9.19
+    },
+    {
+        "country": "MX",
+        "date": "12-07-2022",
+        "units": 10,
+        "price": 5.42
+    },
+    {
+        "country": "FR",
+        "date": "10-03-2023",
+        "units": 7,
+        "price": 6.51
+    },
+    {
+        "country": "BR",
+        "date": "25-11-2022",
+        "units": 13,
+        "price": 8.09
+    },
+    {
+        "country": "MX",
+        "date": "29-09-2023",
+        "units": 12,
+        "price": 5.99
+    },
+    {
+        "country": "FR",
+        "date": "05-02-2022",
+        "units": 20,
+        "price": 5.22
+    },
+    {
+        "country": "US",
+        "date": "19-02-2022",
+        "units": 8,
+        "price": 8.78
+    },
+    {
+        "country": "CN",
+        "date": "05-01-2022",
+        "units": 12,
+        "price": 11.6
+    },
+    {
+        "country": "IN",
+        "date": "25-07-2022",
+        "units": 17,
+        "price": 9.6
+    },
+    {
+        "country": "DE",
+        "date": "11-07-2023",
+        "units": 18,
+        "price": 13.33
+    },
+    {
+        "country": "ZA",
+        "date": "11-11-2022",
+        "units": 8,
+        "price": 14.23
+    },
+    {
+        "country": "MX",
+        "date": "09-04-2022",
+        "units": 10,
+        "price": 12.62
+    },
+    {
+        "country": "CA",
+        "date": "15-12-2023",
+        "units": 19,
+        "price": 12.14
+    },
+    {
+        "country": "CN",
+        "date": "13-12-2023",
+        "units": 15,
+        "price": 5.66
+    },
+    {
+        "country": "DE",
+        "date": "21-04-2022",
+        "units": 9,
+        "price": 14.3
+    },
+    {
+        "country": "CA",
+        "date": "08-11-2023",
+        "units": 16,
+        "price": 11.06
+    },
+    {
+        "country": "IN",
+        "date": "29-08-2022",
+        "units": 19,
+        "price": 5.98
+    },
+    {
+        "country": "CN",
+        "date": "06-01-2023",
+        "units": 20,
+        "price": 11.07
+    },
+    {
+        "country": "CA",
+        "date": "13-10-2022",
+        "units": 3,
+        "price": 10.14
+    },
+    {
+        "country": "BR",
+        "date": "22-11-2023",
+        "units": 10,
+        "price": 14.3
+    },
+    {
+        "country": "CA",
+        "date": "01-07-2023",
+        "units": 18,
+        "price": 13.51
+    },
+    {
+        "country": "CN",
+        "date": "02-02-2022",
+        "units": 20,
+        "price": 7.52
+    },
+    {
+        "country": "FR",
+        "date": "16-05-2022",
+        "units": 6,
+        "price": 8.93
+    },
+    {
+        "country": "ZA",
+        "date": "17-05-2023",
+        "units": 13,
+        "price": 11.37
+    },
+    {
+        "country": "IN",
+        "date": "11-04-2023",
+        "units": 5,
+        "price": 6.66
+    },
+    {
+        "country": "CA",
+        "date": "18-11-2023",
+        "units": 18,
+        "price": 9.11
+    },
+    {
+        "country": "BR",
+        "date": "27-11-2023",
+        "units": 7,
+        "price": 5.93
+    },
+    {
+        "country": "BR",
+        "date": "24-11-2022",
+        "units": 18,
+        "price": 7.38
+    },
+    {
+        "country": "JP",
+        "date": "03-06-2023",
+        "units": 3,
+        "price": 14.76
+    },
+    {
+        "country": "IN",
+        "date": "11-10-2022",
+        "units": 17,
+        "price": 10.5
+    },
+    {
+        "country": "CA",
+        "date": "07-12-2022",
+        "units": 16,
+        "price": 14.08
+    },
+    {
+        "country": "CA",
+        "date": "29-05-2023",
+        "units": 5,
+        "price": 5.04
+    },
+    {
+        "country": "US",
+        "date": "28-10-2023",
+        "units": 15,
+        "price": 6.67
+    },
+    {
+        "country": "DE",
+        "date": "17-07-2022",
+        "units": 12,
+        "price": 14.44
+    },
+    {
+        "country": "BR",
+        "date": "02-03-2023",
+        "units": 15,
+        "price": 14.39
+    },
+    {
+        "country": "DE",
+        "date": "12-11-2023",
+        "units": 12,
+        "price": 11.48
+    },
+    {
+        "country": "ZA",
+        "date": "01-02-2023",
+        "units": 13,
+        "price": 8.35
+    },
+    {
+        "country": "BR",
+        "date": "10-06-2023",
+        "units": 3,
+        "price": 10.89
+    },
+    {
+        "country": "IN",
+        "date": "20-12-2023",
+        "units": 9,
+        "price": 13.08
+    },
+    {
+        "country": "BR",
+        "date": "18-09-2023",
+        "units": 14,
+        "price": 14.76
+    },
+    {
+        "country": "FR",
+        "date": "15-11-2023",
+        "units": 19,
+        "price": 8.42
+    },
+    {
+        "country": "CN",
+        "date": "15-02-2023",
+        "units": 6,
+        "price": 10.48
+    },
+    {
+        "country": "MX",
+        "date": "04-01-2023",
+        "units": 19,
+        "price": 12.96
+    },
+    {
+        "country": "FR",
+        "date": "17-08-2023",
+        "units": 6,
+        "price": 12.74
+    },
+    {
+        "country": "MX",
+        "date": "11-11-2023",
+        "units": 17,
+        "price": 14.47
+    },
+    {
+        "country": "IN",
+        "date": "14-01-2023",
+        "units": 13,
+        "price": 5.5
+    },
+    {
+        "country": "CN",
+        "date": "27-08-2023",
+        "units": 16,
+        "price": 12.2
+    },
+    {
+        "country": "DE",
+        "date": "02-03-2022",
+        "units": 7,
+        "price": 6.91
+    },
+    {
+        "country": "US",
+        "date": "08-12-2023",
+        "units": 12,
+        "price": 10.69
+    },
+    {
+        "country": "CN",
+        "date": "08-07-2022",
+        "units": 8,
+        "price": 5.59
+    },
+    {
+        "country": "MX",
+        "date": "06-04-2023",
+        "units": 12,
+        "price": 11.01
+    },
+    {
+        "country": "CA",
+        "date": "13-01-2022",
+        "units": 13,
+        "price": 11.76
+    },
+    {
+        "country": "IN",
+        "date": "03-02-2023",
+        "units": 17,
+        "price": 5.17
+    },
+    {
+        "country": "IN",
+        "date": "13-03-2023",
+        "units": 17,
+        "price": 7.1
+    },
+    {
+        "country": "ZA",
+        "date": "30-07-2023",
+        "units": 20,
+        "price": 11.92
+    },
+    {
+        "country": "BR",
+        "date": "10-05-2022",
+        "units": 4,
+        "price": 11.0
+    },
+    {
+        "country": "CA",
+        "date": "24-03-2022",
+        "units": 10,
+        "price": 10.05
+    },
+    {
+        "country": "CA",
+        "date": "25-09-2023",
+        "units": 7,
+        "price": 14.68
+    },
+    {
+        "country": "JP",
+        "date": "21-01-2022",
+        "units": 10,
+        "price": 13.4
+    },
+    {
+        "country": "FR",
+        "date": "08-08-2023",
+        "units": 19,
+        "price": 9.57
+    },
+    {
+        "country": "IN",
+        "date": "20-03-2022",
+        "units": 13,
+        "price": 13.27
+    },
+    {
+        "country": "ZA",
+        "date": "21-10-2022",
+        "units": 19,
+        "price": 6.33
+    },
+    {
+        "country": "JP",
+        "date": "08-10-2022",
+        "units": 9,
+        "price": 7.33
+    },
+    {
+        "country": "BR",
+        "date": "12-11-2022",
+        "units": 1,
+        "price": 8.1
+    },
+    {
+        "country": "BR",
+        "date": "03-06-2022",
+        "units": 3,
+        "price": 5.91
+    },
+    {
+        "country": "IN",
+        "date": "28-06-2023",
+        "units": 1,
+        "price": 10.49
+    },
+    {
+        "country": "JP",
+        "date": "19-04-2022",
+        "units": 14,
+        "price": 8.05
+    },
+    {
+        "country": "BR",
+        "date": "14-01-2022",
+        "units": 4,
+        "price": 14.41
+    },
+    {
+        "country": "ZA",
+        "date": "29-09-2022",
+        "units": 2,
+        "price": 5.23
+    },
+    {
+        "country": "US",
+        "date": "13-08-2022",
+        "units": 11,
+        "price": 12.47
+    },
+    {
+        "country": "CA",
+        "date": "30-03-2022",
+        "units": 4,
+        "price": 5.34
+    },
+    {
+        "country": "ZA",
+        "date": "21-02-2022",
+        "units": 20,
+        "price": 14.13
+    },
+    {
+        "country": "CA",
+        "date": "17-04-2023",
+        "units": 20,
+        "price": 5.93
+    },
+    {
+        "country": "DE",
+        "date": "31-12-2022",
+        "units": 5,
+        "price": 14.42
+    },
+    {
+        "country": "DE",
+        "date": "19-02-2022",
+        "units": 5,
+        "price": 5.73
+    },
+    {
+        "country": "ZA",
+        "date": "05-06-2022",
+        "units": 12,
+        "price": 10.5
+    },
+    {
+        "country": "JP",
+        "date": "29-01-2022",
+        "units": 19,
+        "price": 13.36
+    },
+    {
+        "country": "BR",
+        "date": "27-02-2023",
+        "units": 6,
+        "price": 9.87
+    },
+    {
+        "country": "DE",
+        "date": "08-07-2022",
+        "units": 7,
+        "price": 7.5
+    },
+    {
+        "country": "FR",
+        "date": "01-08-2022",
+        "units": 10,
+        "price": 10.34
+    },
+    {
+        "country": "MX",
+        "date": "12-11-2022",
+        "units": 20,
+        "price": 7.22
+    },
+    {
+        "country": "IN",
+        "date": "30-04-2022",
+        "units": 16,
+        "price": 11.06
+    },
+    {
+        "country": "US",
+        "date": "26-08-2023",
+        "units": 6,
+        "price": 10.87
+    },
+    {
+        "country": "CA",
+        "date": "07-12-2023",
+        "units": 5,
+        "price": 14.1
+    },
+    {
+        "country": "BR",
+        "date": "18-04-2023",
+        "units": 6,
+        "price": 11.02
+    },
+    {
+        "country": "ZA",
+        "date": "29-12-2022",
+        "units": 17,
+        "price": 6.86
+    },
+    {
+        "country": "CN",
+        "date": "11-11-2023",
+        "units": 12,
+        "price": 6.79
+    },
+    {
+        "country": "US",
+        "date": "23-07-2023",
+        "units": 6,
+        "price": 6.42
+    },
+    {
+        "country": "BR",
+        "date": "09-06-2023",
+        "units": 1,
+        "price": 13.58
+    },
+    {
+        "country": "IN",
+        "date": "03-04-2023",
+        "units": 20,
+        "price": 10.23
+    },
+    {
+        "country": "ZA",
+        "date": "22-03-2022",
+        "units": 9,
+        "price": 5.51
+    },
+    {
+        "country": "ZA",
+        "date": "01-04-2022",
+        "units": 16,
+        "price": 10.84
+    },
+    {
+        "country": "MX",
+        "date": "11-11-2022",
+        "units": 9,
+        "price": 7.33
+    },
+    {
+        "country": "IN",
+        "date": "22-07-2023",
+        "units": 2,
+        "price": 14.22
+    },
+    {
+        "country": "FR",
+        "date": "08-08-2023",
+        "units": 1,
+        "price": 8.93
+    },
+    {
+        "country": "IN",
+        "date": "27-06-2023",
+        "units": 7,
+        "price": 5.15
+    },
+    {
+        "country": "FR",
+        "date": "06-04-2022",
+        "units": 17,
+        "price": 8.68
+    },
+    {
+        "country": "JP",
+        "date": "19-03-2022",
+        "units": 16,
+        "price": 12.86
+    },
+    {
+        "country": "DE",
+        "date": "30-05-2023",
+        "units": 1,
+        "price": 15.0
+    },
+    {
+        "country": "BR",
+        "date": "09-10-2023",
+        "units": 10,
+        "price": 12.29
+    },
+    {
+        "country": "CA",
+        "date": "05-07-2022",
+        "units": 1,
+        "price": 9.58
+    },
+    {
+        "country": "IN",
+        "date": "23-07-2022",
+        "units": 14,
+        "price": 7.29
+    },
+    {
+        "country": "JP",
+        "date": "03-07-2023",
+        "units": 1,
+        "price": 7.02
+    },
+    {
+        "country": "MX",
+        "date": "17-06-2022",
+        "units": 14,
+        "price": 8.66
+    },
+    {
+        "country": "US",
+        "date": "18-09-2023",
+        "units": 11,
+        "price": 10.03
+    },
+    {
+        "country": "MX",
+        "date": "16-05-2022",
+        "units": 16,
+        "price": 9.05
+    },
+    {
+        "country": "CA",
+        "date": "19-10-2022",
+        "units": 20,
+        "price": 11.45
+    },
+    {
+        "country": "FR",
+        "date": "11-12-2022",
+        "units": 11,
+        "price": 8.96
+    },
+    {
+        "country": "DE",
+        "date": "17-04-2023",
+        "units": 12,
+        "price": 12.43
+    },
+    {
+        "country": "CN",
+        "date": "04-10-2023",
+        "units": 15,
+        "price": 11.19
+    },
+    {
+        "country": "MX",
+        "date": "10-11-2023",
+        "units": 5,
+        "price": 6.75
+    },
+    {
+        "country": "MX",
+        "date": "26-07-2023",
+        "units": 7,
+        "price": 14.97
+    },
+    {
+        "country": "ZA",
+        "date": "01-04-2023",
+        "units": 18,
+        "price": 5.98
+    },
+    {
+        "country": "CN",
+        "date": "16-03-2023",
+        "units": 3,
+        "price": 11.82
+    },
+    {
+        "country": "CA",
+        "date": "30-05-2023",
+        "units": 9,
+        "price": 14.61
+    },
+    {
+        "country": "IN",
+        "date": "10-05-2022",
+        "units": 20,
+        "price": 9.38
+    },
+    {
+        "country": "CA",
+        "date": "06-05-2023",
+        "units": 18,
+        "price": 11.45
+    },
+    {
+        "country": "US",
+        "date": "12-10-2022",
+        "units": 2,
+        "price": 7.85
+    },
+    {
+        "country": "US",
+        "date": "17-08-2023",
+        "units": 7,
+        "price": 13.72
+    },
+    {
+        "country": "MX",
+        "date": "20-10-2022",
+        "units": 14,
+        "price": 12.26
+    },
+    {
+        "country": "BR",
+        "date": "25-09-2022",
+        "units": 11,
+        "price": 10.56
+    },
+    {
+        "country": "US",
+        "date": "26-12-2023",
+        "units": 14,
+        "price": 13.12
+    },
+    {
+        "country": "US",
+        "date": "23-06-2022",
+        "units": 9,
+        "price": 12.14
+    },
+    {
+        "country": "FR",
+        "date": "09-11-2023",
+        "units": 11,
+        "price": 13.29
+    },
+    {
+        "country": "BR",
+        "date": "09-10-2023",
+        "units": 1,
+        "price": 11.83
+    },
+    {
+        "country": "US",
+        "date": "13-01-2023",
+        "units": 3,
+        "price": 5.73
+    },
+    {
+        "country": "MX",
+        "date": "17-03-2023",
+        "units": 20,
+        "price": 13.37
+    },
+    {
+        "country": "IN",
+        "date": "29-01-2022",
+        "units": 12,
+        "price": 7.41
+    },
+    {
+        "country": "US",
+        "date": "15-07-2023",
+        "units": 7,
+        "price": 12.4
+    },
+    {
+        "country": "MX",
+        "date": "23-10-2022",
+        "units": 7,
+        "price": 11.17
+    },
+    {
+        "country": "CA",
+        "date": "22-04-2022",
+        "units": 5,
+        "price": 10.64
+    },
+    {
+        "country": "CA",
+        "date": "16-04-2022",
+        "units": 19,
+        "price": 13.48
+    },
+    {
+        "country": "FR",
+        "date": "19-08-2022",
+        "units": 1,
+        "price": 6.43
+    },
+    {
+        "country": "BR",
+        "date": "10-01-2023",
+        "units": 1,
+        "price": 10.65
+    },
+    {
+        "country": "BR",
+        "date": "07-10-2023",
+        "units": 3,
+        "price": 5.75
+    },
+    {
+        "country": "US",
+        "date": "14-08-2023",
+        "units": 20,
+        "price": 5.15
+    },
+    {
+        "country": "DE",
+        "date": "27-01-2023",
+        "units": 20,
+        "price": 12.72
+    },
+    {
+        "country": "US",
+        "date": "09-06-2022",
+        "units": 20,
+        "price": 8.57
+    },
+    {
+        "country": "DE",
+        "date": "06-10-2023",
+        "units": 20,
+        "price": 6.22
+    },
+    {
+        "country": "BR",
+        "date": "23-11-2022",
+        "units": 11,
+        "price": 6.71
+    },
+    {
+        "country": "IN",
+        "date": "28-05-2023",
+        "units": 16,
+        "price": 9.07
+    },
+    {
+        "country": "CN",
+        "date": "08-12-2023",
+        "units": 19,
+        "price": 11.84
+    },
+    {
+        "country": "IN",
+        "date": "25-03-2023",
+        "units": 1,
+        "price": 9.6
+    },
+    {
+        "country": "CN",
+        "date": "25-04-2023",
+        "units": 10,
+        "price": 12.11
+    },
+    {
+        "country": "MX",
+        "date": "29-08-2023",
+        "units": 3,
+        "price": 10.71
+    },
+    {
+        "country": "MX",
+        "date": "17-02-2023",
+        "units": 19,
+        "price": 5.08
+    },
+    {
+        "country": "ZA",
+        "date": "11-04-2022",
+        "units": 19,
+        "price": 7.41
+    },
+    {
+        "country": "CA",
+        "date": "19-04-2022",
+        "units": 10,
+        "price": 5.9
+    },
+    {
+        "country": "ZA",
+        "date": "24-11-2022",
+        "units": 6,
+        "price": 7.34
+    },
+    {
+        "country": "BR",
+        "date": "25-08-2023",
+        "units": 19,
+        "price": 12.4
+    },
+    {
+        "country": "BR",
+        "date": "01-10-2022",
+        "units": 9,
+        "price": 8.19
+    },
+    {
+        "country": "FR",
+        "date": "27-10-2023",
+        "units": 14,
+        "price": 5.53
+    },
+    {
+        "country": "JP",
+        "date": "30-11-2023",
+        "units": 14,
+        "price": 11.56
+    },
+    {
+        "country": "CN",
+        "date": "24-06-2022",
+        "units": 14,
+        "price": 6.79
+    },
+    {
+        "country": "CN",
+        "date": "14-02-2023",
+        "units": 10,
+        "price": 6.03
+    },
+    {
+        "country": "BR",
+        "date": "15-12-2022",
+        "units": 1,
+        "price": 9.25
+    },
+    {
+        "country": "IN",
+        "date": "03-06-2023",
+        "units": 20,
+        "price": 9.69
+    },
+    {
+        "country": "DE",
+        "date": "26-02-2023",
+        "units": 18,
+        "price": 10.53
+    },
+    {
+        "country": "FR",
+        "date": "11-01-2022",
+        "units": 10,
+        "price": 10.68
+    }
+]

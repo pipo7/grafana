@@ -1,0 +1,1 @@
+https://apasoft-grafana-course.s3.amazonaws.com/sales.json

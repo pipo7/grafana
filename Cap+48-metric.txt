@@ -1,0 +1,1 @@
+((avg_over_time(node_memory_MemTotal_bytes{}[$__rate_interval]) - avg_over_time(node_memory_MemFree_bytes{}[$__rate_interval])) / (avg_over_time(node_memory_MemTotal_bytes{}[$__rate_interval]) )) * 100
